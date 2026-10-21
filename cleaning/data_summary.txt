@@ -1,0 +1,49 @@
+DataFrame Inf0
+<class 'pandas.DataFrame'>
+RangeIndex: 835 entries, 0 to 834
+Data columns (total 12 columns):
+ #   Column      Non-Null Count  Dtype  
+---  ------      --------------  -----  
+ 0   ID          835 non-null    int64  
+ 1   Name        835 non-null    str    
+ 2   Sex         835 non-null    str    
+ 3   Age         835 non-null    float64
+ 4   Height      835 non-null    float64
+ 5   Weight      835 non-null    float64
+ 6   Year        835 non-null    int64  
+ 7   City        835 non-null    str    
+ 8   Sport       835 non-null    str    
+ 9   Event       835 non-null    str    
+ 10  Medal       835 non-null    str    
+ 11  Clean_Name  835 non-null    str    
+dtypes: float64(3), int64(2), str(7)
+memory usage: 141.9 KB
+
+
+Misssing values
+ID            0
+Name          0
+Sex           0
+Age           0
+Height        0
+Weight        0
+Year          0
+City          0
+Sport         0
+Event         0
+Medal         0
+Clean_Name    0
+
+Statistical Summary
+                   ID                 Name  Sex         Age      Height      Weight         Year            City   Sport         Event     Medal           Clean_Name
+count      835.000000                  835  835  835.000000  835.000000  835.000000   835.000000             835     835           835       835                  835
+unique            NaN                  513    2         NaN         NaN         NaN          NaN              18      21           137         4                  513
+top               NaN  Leander Adrian Paes    M         NaN         NaN         NaN          NaN  Rio de Janeiro  Hockey  Men's Hockey  No Medal  Leander Adrian Paes
+freq              NaN                   11  641         NaN         NaN         NaN          NaN             121     214           198       739                   11
+mean     79845.522156                  NaN  NaN   25.643114  171.704192   67.695210  1992.205988             NaN     NaN           NaN       NaN                  NaN
+std      38092.787853                  NaN  NaN    5.390689    9.603777   14.366965    19.006895             NaN     NaN           NaN       NaN                  NaN
+min        512.000000                  NaN  NaN   15.000000  137.000000   43.000000  1936.000000             NaN     NaN           NaN       NaN                  NaN
+25%      57668.500000                  NaN  NaN   22.000000  165.000000   58.000000  1976.000000             NaN     NaN           NaN       NaN                  NaN
+50%      96095.000000                  NaN  NaN   25.000000  172.000000   65.000000  1996.000000             NaN     NaN           NaN       NaN                  NaN
+75%     111100.000000                  NaN  NaN   28.000000  178.000000   74.000000  2008.000000             NaN     NaN           NaN       NaN                  NaN
+max     135480.000000                  NaN  NaN   66.000000  200.000000  125.000000  2016.000000             NaN     NaN           NaN       NaN                  NaN

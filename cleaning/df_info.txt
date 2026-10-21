@@ -1,0 +1,19 @@
+<class 'pandas.DataFrame'>
+RangeIndex: 835 entries, 0 to 834
+Data columns (total 12 columns):
+ #   Column      Non-Null Count  Dtype  
+---  ------      --------------  -----  
+ 0   ID          835 non-null    int64  
+ 1   Name        835 non-null    str    
+ 2   Sex         835 non-null    str    
+ 3   Age         835 non-null    float64
+ 4   Height      835 non-null    float64
+ 5   Weight      835 non-null    float64
+ 6   Year        835 non-null    int64  
+ 7   City        835 non-null    str    
+ 8   Sport       835 non-null    str    
+ 9   Event       835 non-null    str    
+ 10  Medal       835 non-null    str    
+ 11  Clean_Name  835 non-null    str    
+dtypes: float64(3), int64(2), str(7)
+memory usage: 141.9 KB
