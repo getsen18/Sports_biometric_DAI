@@ -1,0 +1,767 @@
+
+\documentclass[11pt,a4paper]{article}
+
+% Packages
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+\geometry{margin=1in}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{7pt}
+\renewcommand{\arraystretch}{1.2}
+
+\title{\textbf{Question 1: Archetype-Level Descriptive Statistics}\\
+\large Results and Interpretations}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section{Research Question}
+
+Generate archetype-level descriptive statistics for
+age, height, weight, and BMI across the various
+functional roles of Indian Olympic athletes.
+
+The analysis examines differences in central
+tendency, variability, distributional characteristics,
+and sex-wise anthropometric profiles across seven
+functional archetypes.
+
+\section{Sample Composition and Archetype Distribution}
+
+The dataset contains 737 athlete-event-edition
+observations representing 522 unique athletes,
+classified into seven functional archetypes.
+
+\begin{table}[H]
+\centering
+\caption{Distribution of Observations Across Archetypes}
+\begin{tabular}{lrr}
+\toprule
+\textbf{Archetype} &
+\textbf{Observations} &
+\textbf{Unique Athletes} \\
+\midrule
+Combat             & 110 & 84  \\
+Endurance          & 56  & 44  \\
+Precision          & 97  & 61  \\
+Racket Sports      & 61  & 36  \\
+Speed \& Power     & 139 & 104 \\
+Team Sports        & 245 & 173 \\
+Technical / Mixed  & 29  & 24  \\
+\midrule
+\textbf{Total}     & \textbf{737} & \textbf{522} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textit{Note:} Unique-athlete counts within
+archetypes are not additive because some athletes
+may belong to multiple archetypes.
+
+\subsection*{Interpretation}
+
+Team Sports accounts for the largest share of
+observations (33.2\%), followed by Speed \& Power
+(18.9\%) and Combat (14.9\%).
+
+Technical / Mixed has the smallest representation,
+contributing only 3.9\% of observations.
+
+This unequal distribution implies that descriptive
+estimates for larger archetypes are based on more
+observations, whereas estimates for smaller groups
+may be more sensitive to individual athletes.
+
+Additionally, some athletes appear in multiple
+Olympic events or editions. Therefore, the results
+describe recorded observations rather than an
+equally weighted sample of independent athletes.
+
+
+\section{Comparison of Mean Anthropometric Characteristics}
+
+\begin{table}[H]
+\centering
+\small
+\caption{Mean Anthropometric Characteristics by Archetype}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{Archetype} &
+\textbf{Age (years)} &
+\textbf{Height (cm)} &
+\textbf{Weight (kg)} &
+\textbf{BMI} \\
+\midrule
+Combat            & 24.10 & 169.64 & 68.85 & 23.69 \\
+Endurance         & 26.21 & 172.54 & 61.04 & 20.36 \\
+Precision         & 29.21 & 171.80 & 71.57 & 24.07 \\
+Racket Sports     & 26.20 & 176.66 & 70.98 & 22.66 \\
+Speed \& Power    & 24.90 & 171.25 & 68.06 & 22.85 \\
+Team Sports       & 24.74 & 171.80 & 66.20 & 22.41 \\
+Technical / Mixed & 28.90 & 172.59 & 65.76 & 22.03 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}
+
+\subsection*{Interpretation}
+
+Precision athletes have the highest average age,
+weight, and BMI, while Racket Sports athletes are
+the tallest on average.
+
+Endurance athletes exhibit the lowest mean weight
+and BMI, despite having an average height
+comparable to most other archetypes.
+
+These observations suggest that physical profiles
+differ across functional categories.
+
+However, these are descriptive comparisons and
+cannot establish that the demands of a particular
+sporting category cause the observed physical
+characteristics.
+
+
+\section{Age Distribution Across Functional Archetypes}
+
+\subsection*{Interpretation}
+
+Precision athletes have the highest mean age
+(29.21 years), closely followed by Technical /
+Mixed athletes (28.90 years).
+
+Combat athletes have the lowest mean age
+(24.10 years), followed by Team Sports
+(24.74 years) and Speed \& Power (24.90 years).
+
+The difference between the highest and lowest
+archetype means is approximately
+\textbf{5.11 years}, indicating noticeable
+variation in age profiles across the groups.
+
+Precision also exhibits the greatest age variability,
+with a standard deviation of 8.57 years and an
+observed age range of 16--66 years.
+
+This indicates a relatively heterogeneous age
+distribution, including considerably older
+participants.
+
+By contrast, Team Sports has the smallest age
+standard deviation (3.60 years), suggesting
+that its observations are concentrated within
+a narrower age range.
+
+The median age for Precision is 28 years,
+below its mean of 29.21 years.
+
+Together with its high maximum age, this
+suggests a right-skewed distribution influenced
+by older athletes.
+
+\textbf{Key Finding:}
+Precision and Technical / Mixed athletes tend
+to be older, while Combat and Team Sports
+exhibit younger and relatively concentrated
+age profiles.
+
+
+\section{Height Distribution Across Functional Archetypes}
+
+\subsection*{Interpretation}
+
+Racket Sports athletes have the highest average
+height (176.66 cm), approximately 7.02 cm greater
+than Combat athletes, who have the lowest mean
+height (169.64 cm).
+
+Endurance, Precision, Speed \& Power, Team Sports,
+and Technical / Mixed have mean heights between
+approximately 171 and 173 cm.
+
+This indicates relatively small differences in
+average stature among these five groups.
+
+Speed \& Power has the largest height standard
+deviation (11.54 cm), suggesting substantial
+variation in body stature within this archetype.
+
+This is consistent with the possibility that
+its constituent events include athletes with
+different physical requirements.
+
+Technical / Mixed has the smallest height
+standard deviation (7.80 cm), although its
+relatively small sample size should be considered
+when comparing variability.
+
+The median height of Racket Sports athletes
+(178 cm) also exceeds that of the other groups.
+
+This indicates that its relatively high mean
+is not merely the result of a few exceptionally
+tall observations.
+
+\textbf{Key Finding:}
+Racket Sports shows a comparatively taller
+physical profile, whereas height differences
+among most other archetypes are relatively modest.
+
+
+\section{Weight Distribution Across Functional Archetypes}
+
+\subsection*{Interpretation}
+
+Precision athletes have the highest mean weight
+(71.57 kg), closely followed by Racket Sports
+(70.98 kg).
+
+Endurance athletes have the lowest mean weight
+(61.04 kg).
+
+The difference between the highest and lowest
+mean weights is approximately
+\textbf{10.53 kg}, demonstrating considerable
+variation in body mass across functional
+archetypes.
+
+Speed \& Power exhibits the greatest weight
+variability, with a standard deviation of
+19.15 kg and weights ranging from 46 to 125 kg.
+
+Its mean weight (68.06 kg) is substantially
+greater than its median (61 kg), indicating
+a right-skewed distribution in which heavier
+observations increase the mean.
+
+Combat athletes also show substantial weight
+variability (SD = 16.47 kg), which may reflect
+differences in body size and weight-category
+participation.
+
+By contrast, Team Sports has a comparatively
+low weight standard deviation (7.89 kg),
+suggesting a more concentrated weight
+distribution.
+
+Endurance athletes maintain the lowest average
+weight despite having an average height
+of 172.54 cm, similar to several other
+archetypes.
+
+\textbf{Key Finding:}
+Endurance athletes display a relatively lighter
+physical profile, whereas Speed \& Power and
+Combat exhibit greater diversity in body mass.
+
+
+\section{BMI Distribution Across Functional Archetypes}
+
+\subsection*{Interpretation}
+
+Precision athletes have the highest mean BMI
+(24.07), followed by Combat (23.69).
+
+Endurance athletes have the lowest mean
+BMI (20.36).
+
+The difference between the highest and lowest
+mean BMI values is approximately
+\textbf{3.71 kg/m$^2$}.
+
+This indicates descriptive variation in body
+weight relative to height.
+
+Endurance has the lowest BMI standard deviation
+(1.82), suggesting that its observations are
+clustered relatively closely around a lower BMI.
+
+Racket Sports and Team Sports also exhibit
+comparatively concentrated BMI distributions.
+
+Precision has the largest BMI standard deviation
+(4.32), followed by Combat (4.02) and
+Speed \& Power (3.91).
+
+This indicates greater variation in
+height-adjusted body mass within these groups.
+
+The maximum recorded BMI in Combat is
+approximately 39.18, considerably above its
+group median of 22.94.
+
+Similarly, Speed \& Power and Precision contain
+relatively high BMI observations.
+
+These values contribute to the observed upper
+tails and greater dispersion.
+
+Importantly, BMI cannot distinguish muscle
+mass from body fat.
+
+Therefore, a higher BMI among athletes should
+not be interpreted directly as greater adiposity
+or poorer physical fitness.
+
+\textbf{Key Finding:}
+Endurance athletes show the lowest and most
+consistent BMI profile, while Precision,
+Combat, and Speed \& Power exhibit greater
+heterogeneity in height-adjusted body mass.
+
+
+\section{Sex-Wise Comparisons}
+
+Sex-wise analysis is important because the
+relative proportions of male and female
+observations vary substantially between
+archetypes.
+
+\begin{table}[H]
+\centering
+\small
+\caption{Sex-Wise Comparison of Mean Height and BMI}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{Archetype} &
+\textbf{Female Height} &
+\textbf{Male Height} &
+\textbf{Female BMI} &
+\textbf{Male BMI} \\
+\midrule
+Combat
+& 158.88 & 170.48 & 22.71 & 23.77 \\
+Endurance
+& 162.00 & 175.72 & 18.63 & 20.89 \\
+Precision
+& 162.86 & 175.43 & 21.90 & 24.95 \\
+Racket Sports
+& 167.95 & 181.56 & 22.06 & 23.00 \\
+Speed \& Power
+& 165.78 & 175.79 & 21.53 & 23.94 \\
+Team Sports
+& 159.94 & 172.62 & 21.22 & 22.49 \\
+Technical / Mixed
+& 167.50 & 174.52 & 21.02 & 22.42 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}
+
+\subsection{Age Comparison}
+
+Within Precision, male observations have a
+substantially higher mean age (30.96 years)
+than female observations (24.89 years).
+
+A similar pattern appears in Technical / Mixed,
+where males average 30.19 years compared with
+25.50 years for females.
+
+Conversely, Speed \& Power has a slightly higher
+mean age among females (25.21 years) than males
+(24.64 years).
+
+Endurance has almost identical mean ages for
+males and females.
+
+These results indicate that differences in age
+composition between sexes are not uniform
+across archetypes.
+
+
+\subsection{Height Comparison}
+
+Male observations have a higher mean height
+than female observations across all seven
+archetypes.
+
+The largest mean difference occurs in Endurance
+(13.72 cm), closely followed by Racket Sports
+(13.61 cm).
+
+Racket Sports has the highest mean height for
+both males (181.56 cm) and females (167.95 cm).
+
+This indicates that its relatively tall profile
+persists when the sexes are analyzed separately.
+
+
+\subsection{Weight Comparison}
+
+Male observations have a higher mean weight
+across every archetype.
+
+The largest sex-wise mean weight difference
+occurs in Precision, where males average
+77.03 kg compared with 58.11 kg among females.
+
+For both sexes, Endurance has the lowest
+mean weight: 64.70 kg for males and 48.92 kg
+for females.
+
+This shows that the relatively low weight
+of Endurance athletes is not solely an
+artifact of the overall male-to-female
+composition.
+
+
+\subsection{BMI Comparison}
+
+Male observations have a higher mean BMI
+in every archetype.
+
+The largest difference appears in Precision,
+where mean BMI is 24.95 for males and
+21.90 for females.
+
+Among female observations, Endurance has
+the lowest mean BMI (18.63), while Combat
+has the highest (22.71).
+
+Among males, Endurance is again the lowest
+(20.89), while Precision is the highest
+(24.95).
+
+Thus, the relatively low BMI of Endurance
+athletes persists for both sexes.
+
+This strengthens the descriptive observation
+that this archetype has a lighter
+height-adjusted body-mass profile.
+
+
+\subsection*{Important Limitation}
+
+Sex representation is highly unequal in
+several groups.
+
+For example, Team Sports has 229 male
+observations but only 16 female observations,
+and Combat has 102 male observations
+compared with eight female observations.
+
+These imbalances limit the reliability of
+direct comparisons, particularly within
+the smaller female subgroups.
+
+
+\section{Distributional Patterns from Histograms and Boxplots}
+
+The histogram and boxplot comparisons provide
+additional information beyond differences
+in group means.
+
+\subsection{Age}
+
+Precision has the widest age distribution,
+including observations substantially older
+than those in most other groups.
+
+Team Sports and Combat show comparatively
+concentrated age distributions.
+
+The presence of older observations in Precision
+contributes to its higher mean and standard
+deviation.
+
+
+\subsection{Height}
+
+Most archetypes show considerable overlap in
+their height distributions, even though their
+means differ.
+
+Racket Sports has a relatively high median
+height, while Speed \& Power exhibits the
+widest interquartile range (17 cm).
+
+This indicates substantial variation within
+the middle 50\% of its height observations.
+
+
+\subsection{Weight}
+
+Speed \& Power and Combat exhibit substantial
+variation in weight.
+
+In Speed \& Power, the difference between the
+mean and median is particularly pronounced,
+suggesting that heavier athletes contribute
+to an extended upper tail.
+
+Team Sports has a narrower interquartile
+range (10 kg), indicating greater concentration
+in the central portion of its weight distribution.
+
+
+\subsection{BMI}
+
+Endurance has a relatively small BMI
+interquartile range (2.30), while Technical /
+Mixed has an even smaller IQR (2.24).
+
+Combat has the largest BMI interquartile
+range (6.31), indicating substantial differences
+in height-adjusted weight even among the
+central 50\% of observations.
+
+The presence of extreme BMI values in certain
+archetypes reinforces the need to examine
+distributions rather than relying exclusively
+on mean values.
+
+Overall, the archetypes differ not only in
+their average physical characteristics but
+also in the extent of within-group variation.
+
+
+\section{Height--Weight Relationship}
+
+The height--weight scatterplot examines whether
+taller athletes generally tend to have higher
+body weight.
+
+The pooled observations show a moderately strong
+positive Pearson correlation:
+
+\[
+\boxed{r = 0.698}
+\]
+
+This indicates that taller athletes generally
+tend to be heavier, although substantial
+variation remains.
+
+The strength of this association varies
+by archetype.
+
+Endurance exhibits a particularly strong
+positive correlation:
+
+\[
+r_{\text{Endurance}} = 0.882
+\]
+
+Precision shows a weaker, though still
+positive, correlation:
+
+\[
+r_{\text{Precision}} = 0.635
+\]
+
+These differences suggest that the relationship
+between height and weight is not identical
+across functional groups.
+
+However, these correlations do not establish
+causal relationships.
+
+Pooled associations may also reflect differences
+in sex composition and sporting events.
+
+
+\section{Age--BMI Relationship}
+
+The overall Pearson correlation between
+age and BMI is approximately:
+
+\[
+\boxed{r = 0.240}
+\]
+
+This indicates a weak positive linear
+association.
+
+However, the relationship varies between
+archetypes.
+
+Precision and Combat show moderate positive
+associations:
+
+\[
+r_{\text{Precision}} = 0.376
+\]
+
+\[
+r_{\text{Combat}} = 0.373
+\]
+
+These indicate that older observations within
+these categories tend to have somewhat
+higher BMI.
+
+Endurance exhibits a negative association:
+
+\[
+r_{\text{Endurance}} = -0.308
+\]
+
+Team Sports shows almost no linear relationship:
+
+\[
+r_{\text{Team Sports}} = -0.043
+\]
+
+These differences suggest that there is no
+single consistent age--BMI relationship
+across all functional archetypes.
+
+The observed correlations are descriptive
+and cannot determine whether aging itself
+causes changes in BMI.
+
+
+\section{Limitations of the Analysis}
+
+Several factors should be considered when
+interpreting these results.
+
+\begin{enumerate}[leftmargin=*]
+
+\item \textbf{Unequal Sample Sizes:}
+
+Archetype sizes range from 29 observations
+in Technical / Mixed to 245 in Team Sports,
+affecting the stability of descriptive estimates.
+
+\item \textbf{Unequal Sex Representation:}
+
+Male observations constitute 579 of 737
+observations (78.6\%), which may influence
+pooled anthropometric averages.
+
+\item \textbf{Repeated Athletes:}
+
+Some athletes appear in multiple Olympic
+editions or archetypes.
+
+The analysis retains one record per
+athlete-year-archetype rather than one record
+per unique athlete.
+
+Therefore, observations are not necessarily
+independent.
+
+\item \textbf{Broad Archetype Classifications:}
+
+Each archetype combines sports or events
+with potentially different physical demands.
+
+Aggregate results may conceal important
+sport-specific variation.
+
+\item \textbf{BMI Limitations:}
+
+BMI does not distinguish lean muscle mass
+from fat mass, making it an imperfect measure
+of body composition among elite athletes.
+
+\item \textbf{Dataset Scope:}
+
+The conclusions apply to the recorded Indian
+Olympic athlete observations with available
+measurements and should not be generalized
+to all Indian athletes.
+
+\end{enumerate}
+
+
+\section{Overall Interpretation and Conclusion}
+
+The descriptive analysis reveals distinct
+differences in age, height, weight, and BMI
+across the seven functional archetypes
+of Indian Olympic athletes.
+
+Precision athletes exhibit the highest mean
+age (29.21 years), weight (71.57 kg),
+and BMI (24.07), while Racket Sports athletes
+have the highest mean height (176.66 cm).
+
+In contrast, Endurance athletes have the
+lowest mean weight (61.04 kg) and BMI (20.36),
+indicating a relatively lighter physical profile.
+
+The analysis also reveals substantial differences
+in variability.
+
+Precision has the greatest age variability,
+while Speed \& Power exhibits the greatest
+variation in height and weight.
+
+Combat and Precision show comparatively
+large BMI dispersion, whereas Endurance
+demonstrates a more concentrated BMI
+distribution.
+
+Sex-wise comparisons reveal that male
+athletes have higher average height,
+weight, and BMI across all archetypes.
+
+However, some key patterns remain consistent
+within both sexes.
+
+Racket Sports athletes are the tallest
+on average, and Endurance athletes exhibit
+the lowest mean weight and BMI in both
+male and female subgroups.
+
+The height--weight analysis identifies a
+positive association ($r = 0.698$),
+while the age--BMI relationship is considerably
+weaker ($r = 0.240$) and varies across
+archetypes.
+
+Overall, the findings suggest that the
+functional categories differ in their
+observed anthropometric profiles.
+
+These patterns are consistent with the
+possibility that different sports involve
+different physical demands.
+
+However, the descriptive analysis cannot
+establish these demands as the cause of
+the observed differences.
+
+The findings should also be interpreted
+in light of unequal sample sizes, sex
+imbalance, repeated athlete observations,
+and variation among sports within each
+archetype.
+
+\bigskip
+
+\noindent
+\textbf{Final Conclusion:}
+
+Functional archetype classification provides
+a useful descriptive framework for understanding
+variation in the physical characteristics
+of recorded Indian Olympic athletes.
+
+The results highlight the importance of
+examining both central tendencies and
+within-group variability, as well as
+accounting for sex composition and
+sample-size differences when comparing
+athletic populations.
+
+\end{document}
