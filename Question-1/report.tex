@@ -1,4 +1,3 @@
-
 \documentclass[11pt,a4paper]{article}
 
 % Packages
@@ -30,9 +29,9 @@
 
 \section{Research Question}
 
-Generate archetype-level descriptive statistics for
-age, height, weight, and BMI across the various
-functional roles of Indian Olympic athletes.
+How do age, height and weight distributions vary across broad sport categories
+and Athletics sub-disciplines, by sex where sample sizes allow?
+As a supplementary analysis, we also compare BMI and seven functional archetypes.
 
 The analysis examines differences in central
 tendency, variability, distributional characteristics,
@@ -41,9 +40,10 @@ functional archetypes.
 
 \section{Sample Composition and Archetype Distribution}
 
-The dataset contains 737 athlete-event-edition
-observations representing 522 unique athletes,
-classified into seven functional archetypes.
+The dataset contains 737 athlete--year--archetype
+observations representing 522 unique athlete IDs,
+classified into seven functional archetypes. The 522 unique-athlete figure
+is a distinct count over all groups, not the sum of archetype counts.
 
 \begin{table}[H]
 \centering
@@ -85,11 +85,40 @@ estimates for larger archetypes are based on more
 observations, whereas estimates for smaller groups
 may be more sensitive to individual athletes.
 
-Additionally, some athletes appear in multiple
-Olympic events or editions. Therefore, the results
-describe recorded observations rather than an
-equally weighted sample of independent athletes.
+Additionally, some athletes contribute in multiple Olympic years or
+archetypes. Therefore, the estimates describe retained athlete--year--archetype
+observations rather than a sample of independent athletes.
 
+
+\section{Relationship to Checkpoint 1 and Unit of Analysis}
+Checkpoint 1 specified comparisons of age, height and weight across broad sport
+categories, with an explicit Athletics sub-discipline breakdown (throws,
+sprints/hurdles, jumps, and distance running) and sex-specific comparisons
+where sample sizes allow. The present seven-archetype framework is an
+\emph{additional analytical grouping}, not a replacement for the Athletics
+comparison in Section~\ref{sec:athletics}.
+
+The cleaned input contains \textbf{835 event-level rows} for \textbf{522
+athlete IDs}. The classification notebook assigns each row to a functional
+archetype using sport, and selected event names for Athletics, Swimming and
+Cycling. It then sorts and retains one row per
+\texttt{(ID, Year, Archetype)}. This consolidates \textbf{98 rows}, leaving
+\textbf{737 athlete--year--archetype observations}, \textbf{732 distinct
+athlete--year combinations}, and all \textbf{522 athlete IDs}. Thus, a
+participant may still contribute in multiple Olympic years or in two
+archetypes during the same year. The descriptive estimates are weighted by
+these retained observations and should not be interpreted as estimates from
+737 independent athletes. No missing-data or statistical significance claims
+are implied by this consolidation.
+
+For the event-specific Athletics comparison, the \emph{pre-consolidation}
+835-row cleaned file is used, because a broad archetype can contain more
+than one Athletics sub-discipline. Within Athletics, the analysis retains one
+row per \texttt{(ID, Year, Discipline)} to avoid counting multiple events in
+the same sub-discipline twice in the same edition. Athletes competing in
+different disciplines or different years can still contribute more than once.
+Age values include those previously imputed during cleaning; this should be
+kept in mind when interpreting age distributions.
 
 \section{Comparison of Mean Anthropometric Characteristics}
 
@@ -137,7 +166,69 @@ sporting category cause the observed physical
 characteristics.
 
 
+\section{Athletics Sub-Discipline Comparison}\label{sec:athletics}
+
+To address the Athletics component explicitly promised in Checkpoint 1,
+Athletics entries are grouped into throws (discus, hammer, javelin, shot put),
+sprints/hurdles (100--400 m events and relays), jumps (high, long, triple),
+and distance running/walks (800 m and longer, marathon, and race walks).
+Decathlon and heptathlon are \emph{combined events}, so they are excluded
+from the four-category comparison rather than assigned arbitrarily to one.
+Counts below use the one-athlete--year--discipline rule described earlier.
+
+\begin{table}[htbp]
+\centering\small
+\caption{Athletics sub-disciplines: descriptive means and sample composition}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrrrr}
+\toprule
+Discipline & $n$ & Female & Male & Age (yr) & Height (cm) & Weight (kg) \\
+\midrule
+Throws & 27 & 11 & 16 & 27.96 & 183.00 & 99.33 \\
+Sprints / hurdles & 61 & 37 & 24 & 24.31 & 168.62 & 59.07 \\
+Jumps & 19 & 5 & 14 & 25.68 & 178.00 & 67.63 \\
+Distance / walks & 45 & 13 & 32 & 26.87 & 169.78 & 57.96 \\
+\bottomrule
+\end{tabular}}
+\end{table}
+
+% Athletics figures are optional because the original repository contains only
+% boxplots/, histograms/, mean_comparison/, scatterplots/, sexwise_boxplots/.
+% If the additional Athletics images are added later, they appear automatically.
+\IfFileExists{q1_plots/athletics/age_athletics.png}{%
+  \begin{figure}[htbp]\centering
+  \includegraphics[width=0.95\textwidth]{q1_plots/athletics/age_athletics.png}
+  \caption{Age within Athletics sub-disciplines.}\end{figure}
+}{}
+\IfFileExists{q1_plots/athletics/height_athletics.png}{%
+  \begin{figure}[htbp]\centering
+  \includegraphics[width=0.95\textwidth]{q1_plots/athletics/height_athletics.png}
+  \caption{Height within Athletics sub-disciplines.}\end{figure}
+}{}
+\IfFileExists{q1_plots/athletics/weight_athletics.png}{%
+  \begin{figure}[htbp]\centering
+  \includegraphics[width=0.95\textwidth]{q1_plots/athletics/weight_athletics.png}
+  \caption{Weight within Athletics sub-disciplines.}\end{figure}
+}{}
+
+The table compares group-level central tendencies. If the supplementary
+Athletics boxplots are provided, they additionally show within-group
+spread and atypical observations. The female and male counts
+indicate whether a within-sex interpretation is adequately supported;
+comparisons from small subgroups should remain descriptive. These results
+reflect observed Indian Olympic participation and should not be used to
+claim that sporting events cause body-size differences. The definitions of
+these four categories are tailored to the events actually represented in the
+cleaned data; in particular, the distance group includes race walks.
+
 \section{Age Distribution Across Functional Archetypes}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/boxplots/age_boxplot.png}
+\caption{Age distributions by functional archetype.}
+\end{figure}
+
 
 \subsection*{Interpretation}
 
@@ -183,6 +274,13 @@ age profiles.
 
 \section{Height Distribution Across Functional Archetypes}
 
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/boxplots/height_boxplot.png}
+\caption{Height distributions by functional archetype.}
+\end{figure}
+
+
 \subsection*{Interpretation}
 
 Racket Sports athletes have the highest average
@@ -224,6 +322,13 @@ among most other archetypes are relatively modest.
 
 
 \section{Weight Distribution Across Functional Archetypes}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/boxplots/weight_boxplot.png}
+\caption{Weight distributions by functional archetype.}
+\end{figure}
+
 
 \subsection*{Interpretation}
 
@@ -271,6 +376,13 @@ Combat exhibit greater diversity in body mass.
 
 
 \section{BMI Distribution Across Functional Archetypes}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/boxplots/bmi_boxplot.png}
+\caption{BMI distributions by functional archetype.}
+\end{figure}
+
 
 \subsection*{Interpretation}
 
@@ -327,6 +439,13 @@ heterogeneity in height-adjusted body mass.
 
 \section{Sex-Wise Comparisons}
 
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/sexwise_boxplots/height_sexwise.png}
+\caption{Height distributions by archetype and sex.}
+\end{figure}
+
+
 Sex-wise analysis is important because the
 relative proportions of male and female
 observations vary substantially between
@@ -363,6 +482,22 @@ Technical / Mixed
 \end{tabular}%
 }
 \end{table}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/sexwise_boxplots/age_sexwise.png}
+\caption{Age distribution by functional archetype and sex.}
+\end{figure}
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/sexwise_boxplots/weight_sexwise.png}
+\caption{Weight distribution by functional archetype and sex.}
+\end{figure}
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/sexwise_boxplots/bmi_sexwise.png}
+\caption{BMI distribution by functional archetype and sex.}
+\end{figure}
 
 \subsection{Age Comparison}
 
@@ -463,6 +598,13 @@ the smaller female subgroups.
 
 
 \section{Distributional Patterns from Histograms and Boxplots}
+\begin{figure}[htbp]\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/histograms/age_histograms.png}
+\caption{Age histograms for the seven archetypes.}\end{figure}
+\begin{figure}[htbp]\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/histograms/weight_histograms.png}
+\caption{Weight histograms for the seven archetypes.}\end{figure}
+
 
 The histogram and boxplot comparisons provide
 additional information beyond differences
@@ -534,6 +676,13 @@ also in the extent of within-group variation.
 
 \section{Height--Weight Relationship}
 
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/scatterplots/height_vs_weight.png}
+\caption{Height--weight relationship by archetype.}
+\end{figure}
+
+
 The height--weight scatterplot examines whether
 taller athletes generally tend to have higher
 body weight.
@@ -578,6 +727,13 @@ in sex composition and sporting events.
 
 
 \section{Age--BMI Relationship}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{q1_plots/scatterplots/age_vs_bmi.png}
+\caption{Age--BMI relationship by archetype.}
+\end{figure}
+
 
 The overall Pearson correlation between
 age and BMI is approximately:
@@ -763,5 +919,25 @@ within-group variability, as well as
 accounting for sex composition and
 sample-size differences when comparing
 athletic populations.
+
+\section{Scope and Interpretive Limitations}
+This Question 1 report emphasizes descriptive comparisons. Confidence intervals,
+formal hypothesis tests, and Q--Q plots are not required to answer the stated
+question and are not presented as inferential evidence. The same athlete may
+appear in different years or different archetypes, the original height/weight
+completeness filter may affect representativeness, age imputation can affect
+summary ages, and sex and category sizes are highly unequal. The included
+BMI and correlation analyses are exploratory extensions. Multiple linear
+regression and year-adjusted modelling are addressed by the project's
+separate Questions 2 and 3, not established by these descriptive correlations.
+
+\section*{Data and Reproducibility}
+Source dataset: \emph{120 Years of Olympic History} (Kaggle), filtered to
+Indian Summer Olympic entries (1936--2016), using the project's cleaned
+\texttt{data\_read\_to\_use.csv}. The category classifications and
+main aggregation follow \texttt{classification.ipynb} and
+\texttt{stats.ipynb}; figures are sourced from \texttt{q1\_plots/}.
+The Athletics-specific figures were computed from the cleaned input with
+one row retained per athlete, year, and sub-discipline.
 
 \end{document}
