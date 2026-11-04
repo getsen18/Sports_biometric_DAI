@@ -1,0 +1,6 @@
+ID,Name,Sex,Age,Height,Weight,Year,City,Clean_Name,BMI,Sports,Events,Medals,Archetype_Candidates,Archetype,Events_in_Year,Archetype_Review_Needed
+512,Shiny Kurisingal Abraham-Wilson,F,19.0,167.0,53.0,1984,Los Angeles,Shiny Kurisingal Abraham-Wilson,19.003908350962742,Athletics,Women's 4 x 400 metres Relay; Women's 800 metres,No Medal,Endurance; Speed & Power,MULTIPLE_ARCHETYPES,2,True
+512,Shiny Kurisingal Abraham-Wilson,F,23.0,167.0,53.0,1988,Seoul,Shiny Kurisingal Abraham-Wilson,19.003908350962742,Athletics,Women's 4 x 400 metres Relay; Women's 800 metres,No Medal,Endurance; Speed & Power,MULTIPLE_ARCHETYPES,2,True
+72165,Tintu Luka,F,27.0,163.0,50.0,2016,Rio de Janeiro,Tintu Luka,18.818924310286427,Athletics,Women's 4 x 400 metres Relay; Women's 800 metres,No Medal,Endurance; Speed & Power,MULTIPLE_ARCHETYPES,2,True
+111176,Amar Singh Billing,M,20.0,175.0,62.0,1964,Tokyo,Amar Singh Billing,20.244897959183675,Cycling,Men's 100 kilometres Team Time Trial; Men's Sprint,No Medal,Endurance; Speed & Power,MULTIPLE_ARCHETYPES,2,True
+111234,Gurbachan Singh Randhawa,M,21.0,183.0,71.0,1960,Roma,Gurbachan Singh Randhawa,21.20099137030069,Athletics,Men's Decathlon; Men's High Jump,No Medal,Speed & Power; Technical / Mixed,MULTIPLE_ARCHETYPES,2,True
