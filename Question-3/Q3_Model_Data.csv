@@ -1,0 +1,836 @@
+ID,Name,Sex,Age,Height,Weight,Year,City,Sport,Event,Medal,Clean_Name,Archetype,Year_Decade
+512,Shiny Kurisingal Abraham-Wilson,F,19.0,167.0,53.0,1984,Los Angeles,Athletics,Women's 800 metres,No Medal,Shiny Kurisingal Abraham-Wilson,Endurance,198.4
+512,Shiny Kurisingal Abraham-Wilson,F,19.0,167.0,53.0,1984,Los Angeles,Athletics,Women's 4 x 400 metres Relay,No Medal,Shiny Kurisingal Abraham-Wilson,Speed & Power,198.4
+512,Shiny Kurisingal Abraham-Wilson,F,23.0,167.0,53.0,1988,Seoul,Athletics,Women's 800 metres,No Medal,Shiny Kurisingal Abraham-Wilson,Endurance,198.8
+512,Shiny Kurisingal Abraham-Wilson,F,23.0,167.0,53.0,1988,Seoul,Athletics,Women's 4 x 400 metres Relay,No Medal,Shiny Kurisingal Abraham-Wilson,Speed & Power,198.8
+512,Shiny Kurisingal Abraham-Wilson,F,27.0,167.0,53.0,1992,Barcelona,Athletics,Women's 800 metres,No Medal,Shiny Kurisingal Abraham-Wilson,Endurance,199.2
+512,Shiny Kurisingal Abraham-Wilson,F,31.0,167.0,53.0,1996,Atlanta,Athletics,Women's 4 x 400 metres Relay,No Medal,Shiny Kurisingal Abraham-Wilson,Speed & Power,199.6
+663,Sharath Kamal Achanta,M,22.0,186.0,85.0,2004,Athina,Table Tennis,Men's Singles,No Medal,Sharath Kamal Achanta,Racket Sports,200.4
+663,Sharath Kamal Achanta,M,26.0,186.0,85.0,2008,Beijing,Table Tennis,Men's Singles,No Medal,Sharath Kamal Achanta,Racket Sports,200.8
+663,Sharath Kamal Achanta,M,34.0,186.0,85.0,2016,Rio de Janeiro,Table Tennis,Men's Singles,No Medal,Sharath Kamal Achanta,Racket Sports,201.6
+1149,Neha Aggarwal,F,18.0,170.0,67.0,2008,Beijing,Table Tennis,Women's Singles,No Medal,Neha Aggarwal,Racket Sports,200.8
+1366,Jitendarjit Singh Ahluwalia,M,25.0,179.0,69.0,1980,Moskva,Equestrianism,"Mixed Three-Day Event, Individual",No Medal,Jitendarjit Singh Ahluwalia,Technical / Mixed,198.0
+1366,Jitendarjit Singh Ahluwalia,M,25.0,179.0,69.0,1980,Moskva,Equestrianism,"Mixed Three-Day Event, Team",No Medal,Jitendarjit Singh Ahluwalia,Technical / Mixed,198.0
+1710,Balkrishan Akotkar,M,27.0,171.0,57.0,1964,Tokyo,Athletics,Men's Marathon,No Medal,Balkrishan Akotkar,Endurance,196.4
+2702,Syed Ali,M,19.0,169.0,60.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Syed Ali,Team Sports,197.6
+2703,Syed Mushtaq Ali,M,22.0,165.0,61.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Syed Mushtaq Ali,Team Sports,196.4
+2706,Sayed Zeeshan Ali,M,18.0,180.0,64.0,1988,Seoul,Tennis,Men's Singles,No Medal,Sayed Zeeshan Ali,Racket Sports,198.8
+3053,Bobby Aloysius,F,30.0,173.0,55.0,2004,Athina,Athletics,Women's High Jump,No Medal,Bobby Aloysius,Speed & Power,200.4
+3538,Anand Amritraj,M,36.0,185.0,77.0,1988,Seoul,Tennis,Men's Doubles,No Medal,Anand Amritraj,Racket Sports,198.8
+3539,Vijay Amritraj,M,34.0,193.0,75.0,1988,Seoul,Tennis,Men's Singles,No Medal,Vijay Amritraj,Racket Sports,198.8
+3539,Vijay Amritraj,M,34.0,193.0,75.0,1988,Seoul,Tennis,Men's Doubles,No Medal,Vijay Amritraj,Racket Sports,198.8
+4000,"Ganpatrao Krishnaji ""Ganpat"" Andhalkar-Patil",M,29.0,183.0,97.0,1964,Tokyo,Wrestling,"Men's Middleweight, Greco-Roman",No Medal,Ganpatrao Krishnaji Andhalkar-Patil,Combat,196.4
+4000,"Ganpatrao Krishnaji ""Ganpat"" Andhalkar-Patil",M,29.0,183.0,97.0,1964,Tokyo,Wrestling,"Men's Heavyweight, Freestyle",No Medal,Ganpatrao Krishnaji Andhalkar-Patil,Combat,196.4
+4251,Imtiaz Anees,M,29.0,158.0,60.0,2000,Sydney,Equestrianism,"Mixed Three-Day Event, Individual",No Medal,Imtiaz Anees,Technical / Mixed,200.0
+4395,Subbaiah Anjaparavanda Bopaiah,M,25.0,169.0,60.0,1996,Atlanta,Hockey,Men's Hockey,No Medal,Subbaiah Anjaparavanda Bopaiah,Team Sports,199.6
+4518,"Joseph Anthony ""Joe"" Antic",M,29.0,168.0,59.0,1960,Roma,Hockey,Men's Hockey,Silver,Joseph Anthony Antic,Team Sports,196.0
+4523,Seema Antil,F,21.0,182.0,92.0,2004,Athina,Athletics,Women's Discus Throw,No Medal,Seema Antil,Speed & Power,200.4
+4523,Seema Antil,F,28.0,182.0,92.0,2012,London,Athletics,Women's Discus Throw,No Medal,Seema Antil,Speed & Power,201.2
+4523,Seema Antil,F,33.0,182.0,92.0,2016,Rio de Janeiro,Athletics,Women's Discus Throw,No Medal,Seema Antil,Speed & Power,201.6
+5562,Aditi Ashok,F,18.0,173.0,57.0,2016,Rio de Janeiro,Golf,Women's Individual,No Medal,Aditi Ashok,Precision,201.6
+5563,Kumar Ashok,M,20.0,165.0,52.0,1980,Moskva,Wrestling,"Men's Flyweight, Freestyle",No Medal,Kumar Ashok,Combat,198.0
+5868,Manu Attri,M,23.0,172.0,73.0,2016,Rio de Janeiro,Badminton,Men's Doubles,No Medal,Manu Attri,Racket Sports,201.6
+6427,Lalita Shivaji Babar,F,27.0,166.0,50.0,2016,Rio de Janeiro,Athletics,"Women's 3,000 metres Steeplechase",No Medal,Lalita Shivaji Babar,Endurance,201.6
+6469,Kumari Babita,F,26.0,165.0,52.0,2016,Rio de Janeiro,Wrestling,"Women's Featherweight, Freestyle",No Medal,Kumari Babita,Combat,201.6
+6481,Chetan Panduranga Baboor,M,18.0,188.0,70.0,1992,Barcelona,Table Tennis,Men's Singles,No Medal,Chetan Panduranga Baboor,Racket Sports,199.2
+6481,Chetan Panduranga Baboor,M,22.0,188.0,70.0,1996,Atlanta,Table Tennis,Men's Singles,No Medal,Chetan Panduranga Baboor,Racket Sports,199.6
+6481,Chetan Panduranga Baboor,M,26.0,188.0,70.0,2000,Sydney,Table Tennis,Men's Singles,No Medal,Chetan Panduranga Baboor,Racket Sports,200.0
+6481,Chetan Panduranga Baboor,M,26.0,188.0,70.0,2000,Sydney,Table Tennis,Men's Doubles,No Medal,Chetan Panduranga Baboor,Racket Sports,200.0
+6486,Suresh Babu,M,19.0,187.0,72.0,1972,Munich,Athletics,Men's High Jump,No Medal,Suresh Babu,Speed & Power,197.2
+7118,Subramani Balada Kalaiah,M,26.0,160.0,56.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Subramani Balada Kalaiah,Team Sports,198.8
+7140,"Tulasidas Balaraman ""Balaram""",M,19.0,171.0,56.0,1956,Melbourne,Football,Men's Football,No Medal,Tulasidas Balaraman,Team Sports,195.6
+7140,"Tulasidas Balaraman ""Balaram""",M,23.0,171.0,56.0,1960,Roma,Football,Men's Football,No Medal,Tulasidas Balaraman,Team Sports,196.0
+7485,Dola Banerjee,F,24.0,162.0,69.0,2004,Athina,Archery,Women's Individual,No Medal,Dola Banerjee,Precision,200.4
+7485,Dola Banerjee,F,24.0,162.0,69.0,2004,Athina,Archery,Women's Team,No Medal,Dola Banerjee,Precision,200.4
+7485,Dola Banerjee,F,28.0,162.0,69.0,2008,Beijing,Archery,Women's Individual,No Medal,Dola Banerjee,Precision,200.8
+7485,Dola Banerjee,F,28.0,162.0,69.0,2008,Beijing,Archery,Women's Team,No Medal,Dola Banerjee,Precision,200.8
+7487,"Pradeep Kumar ""PK"" Banerjee",M,20.0,173.0,65.0,1956,Melbourne,Football,Men's Football,No Medal,Pradeep Kumar Banerjee,Team Sports,195.6
+7487,"Pradeep Kumar ""PK"" Banerjee",M,23.0,173.0,65.0,1960,Roma,Football,Men's Football,No Medal,Pradeep Kumar Banerjee,Team Sports,196.0
+7488,Rahul Banerjee,M,25.0,179.0,80.0,2012,London,Archery,Men's Individual,No Medal,Rahul Banerjee,Precision,201.2
+7488,Rahul Banerjee,M,25.0,179.0,80.0,2012,London,Archery,Men's Team,No Medal,Rahul Banerjee,Precision,201.2
+7912,"Lazarus ""Lajarus"" Barla",M,20.0,175.0,62.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Lazarus Barla,Team Sports,200.0
+8458,Ahmed Abdul Basith,M,30.0,178.0,75.0,1972,Munich,Sailing,Mixed Two Person Heavyweight Dinghy,No Medal,Ahmed Abdul Basith,Technical / Mixed,197.2
+8604,Manika Batra,F,21.0,179.0,63.0,2016,Rio de Janeiro,Table Tennis,Women's Singles,No Medal,Manika Batra,Racket Sports,201.6
+9336,"Kalayathumkuzhi Mathews ""K. M."" Beenamol",F,20.0,163.0,50.0,1996,Atlanta,Athletics,Women's 4 x 400 metres Relay,No Medal,Kalayathumkuzhi Mathews Beenamol,Speed & Power,199.6
+9336,"Kalayathumkuzhi Mathews ""K. M."" Beenamol",F,25.0,163.0,50.0,2000,Sydney,Athletics,Women's 400 metres,No Medal,Kalayathumkuzhi Mathews Beenamol,Speed & Power,200.0
+9336,"Kalayathumkuzhi Mathews ""K. M."" Beenamol",F,25.0,163.0,50.0,2000,Sydney,Athletics,Women's 4 x 400 metres Relay,No Medal,Kalayathumkuzhi Mathews Beenamol,Speed & Power,200.0
+9336,"Kalayathumkuzhi Mathews ""K. M."" Beenamol",F,28.0,163.0,50.0,2004,Athina,Athletics,Women's 4 x 400 metres Relay,No Medal,Kalayathumkuzhi Mathews Beenamol,Speed & Power,200.4
+11189,Dhruv Bhandari,M,24.0,177.0,62.0,1984,Los Angeles,Sailing,Mixed Two Person Dinghy,No Medal,Dhruv Bhandari,Technical / Mixed,198.4
+11197,Vasudevan Bhaskaran,M,25.0,174.0,68.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Vasudevan Bhaskaran,Team Sports,197.6
+11197,Vasudevan Bhaskaran,M,29.0,174.0,68.0,1980,Moskva,Hockey,Men's Hockey,Gold,Vasudevan Bhaskaran,Team Sports,198.0
+11199,Randhawa Ranjit Bhatia,M,24.0,180.0,63.0,1960,Roma,Athletics,"Men's 5,000 metres",No Medal,Randhawa Ranjit Bhatia,Endurance,196.0
+11199,Randhawa Ranjit Bhatia,M,24.0,180.0,63.0,1960,Roma,Athletics,Men's Marathon,No Medal,Randhawa Ranjit Bhatia,Endurance,196.0
+11202,Deepankar Bhattacharya,M,20.0,178.0,68.0,1992,Barcelona,Badminton,Men's Singles,No Medal,Deepankar Bhattacharya,Racket Sports,199.2
+11202,Deepankar Bhattacharya,M,20.0,178.0,68.0,1992,Barcelona,Badminton,Men's Doubles,No Medal,Deepankar Bhattacharya,Racket Sports,199.2
+11202,Deepankar Bhattacharya,M,24.0,178.0,68.0,1996,Atlanta,Badminton,Men's Singles,No Medal,Deepankar Bhattacharya,Racket Sports,199.6
+11212,Dattu Baban Bhokanal,M,25.0,189.0,81.0,2016,Rio de Janeiro,Rowing,Men's Single Sculls,No Medal,Dattu Baban Bhokanal,Endurance,201.6
+11219,Mahesh Shrinivas Bhupathi,M,22.0,185.0,88.0,1996,Atlanta,Tennis,Men's Doubles,No Medal,Mahesh Shrinivas Bhupathi,Racket Sports,199.6
+11219,Mahesh Shrinivas Bhupathi,M,26.0,185.0,88.0,2000,Sydney,Tennis,Men's Doubles,No Medal,Mahesh Shrinivas Bhupathi,Racket Sports,200.0
+11219,Mahesh Shrinivas Bhupathi,M,30.0,185.0,88.0,2004,Athina,Tennis,Men's Doubles,No Medal,Mahesh Shrinivas Bhupathi,Racket Sports,200.4
+11219,Mahesh Shrinivas Bhupathi,M,34.0,185.0,88.0,2008,Beijing,Tennis,Men's Doubles,No Medal,Mahesh Shrinivas Bhupathi,Racket Sports,200.8
+11219,Mahesh Shrinivas Bhupathi,M,38.0,185.0,88.0,2012,London,Tennis,Men's Doubles,No Medal,Mahesh Shrinivas Bhupathi,Racket Sports,201.2
+11520,Govinda Billimogaputtaswamy,M,20.0,171.0,60.0,1972,Munich,Hockey,Men's Hockey,Bronze,Govinda Billimogaputtaswamy,Team Sports,197.2
+11520,Govinda Billimogaputtaswamy,M,24.0,171.0,60.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Govinda Billimogaputtaswamy,Team Sports,197.6
+11601,Abhinav Bindra,M,17.0,173.0,70.0,2000,Sydney,Shooting,"Men's Air Rifle, 10 metres",No Medal,Abhinav Bindra,Precision,200.0
+11601,Abhinav Bindra,M,21.0,173.0,70.0,2004,Athina,Shooting,"Men's Air Rifle, 10 metres",No Medal,Abhinav Bindra,Precision,200.4
+11601,Abhinav Bindra,M,25.0,173.0,70.0,2008,Beijing,Shooting,"Men's Air Rifle, 10 metres",Gold,Abhinav Bindra,Precision,200.8
+11601,Abhinav Bindra,M,29.0,173.0,70.0,2012,London,Shooting,"Men's Air Rifle, 10 metres",No Medal,Abhinav Bindra,Precision,201.2
+11601,Abhinav Bindra,M,33.0,173.0,70.0,2016,Rio de Janeiro,Shooting,"Men's Air Rifle, 10 metres",No Medal,Abhinav Bindra,Precision,201.6
+11637,Kalayathumkuzhi Mathews Binu,M,23.0,172.0,61.0,2004,Athina,Athletics,Men's 400 metres,No Medal,Kalayathumkuzhi Mathews Binu,Speed & Power,200.4
+11651,Harishchandra Madhavrao Birajdar,M,22.0,192.0,100.0,1972,Munich,Wrestling,"Men's Middleweight, Freestyle",No Medal,Harishchandra Madhavrao Birajdar,Combat,197.2
+11652,Shahuraj Birajdar,M,25.0,167.0,54.0,1988,Seoul,Boxing,Men's Bantamweight,No Medal,Shahuraj Birajdar,Combat,198.8
+11778,Jagdish Kumar Singh Bishnoi,M,28.0,182.0,86.0,2000,Sydney,Athletics,Men's Javelin Throw,No Medal,Jagdish Kumar Singh Bishnoi,Speed & Power,200.0
+11827,Soma Biswas,F,22.0,173.0,63.0,2000,Sydney,Athletics,Women's Heptathlon,No Medal,Soma Biswas,Technical / Mixed,200.0
+11827,Soma Biswas,F,26.0,173.0,63.0,2004,Athina,Athletics,Women's Heptathlon,No Medal,Soma Biswas,Technical / Mixed,200.4
+12465,Anju Bobby George (Markose-),F,27.0,175.0,62.0,2004,Athina,Athletics,Women's Long Jump,No Medal,Anju Bobby George,Speed & Power,200.4
+12465,Anju Bobby George (Markose-),F,31.0,175.0,62.0,2008,Beijing,Athletics,Women's Long Jump,No Medal,Anju Bobby George,Speed & Power,200.8
+13373,Rohan Bopanna,M,32.0,190.0,87.0,2012,London,Tennis,Men's Doubles,No Medal,Rohan Bopanna,Racket Sports,201.2
+13373,Rohan Bopanna,M,36.0,190.0,87.0,2016,Rio de Janeiro,Tennis,Mixed Doubles,No Medal,Rohan Bopanna,Racket Sports,201.6
+13373,Rohan Bopanna,M,36.0,190.0,87.0,2016,Rio de Janeiro,Tennis,Men's Doubles,No Medal,Rohan Bopanna,Racket Sports,201.6
+13634,Charles Borromeo,M,25.0,174.0,59.0,1984,Los Angeles,Athletics,Men's 800 metres,No Medal,Charles Borromeo,Endurance,198.4
+18693,Joaquim Martin Carvalho,M,24.0,178.0,69.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Joaquim Martin Carvalho,Team Sports,198.4
+19583,Rushmi Chakravarthi,F,34.0,170.0,65.0,2012,London,Tennis,Women's Doubles,No Medal,Rushmi Chakravarthi,Racket Sports,201.2
+19717,Dutee Chand,F,20.0,160.0,50.0,2016,Rio de Janeiro,Athletics,Women's 100 metres,No Medal,Dutee Chand,Speed & Power,201.6
+19719,Hari Chand,M,23.0,172.0,63.0,1976,Montreal,Athletics,"Men's 10,000 metres",No Medal,Hari Chand,Endurance,197.6
+19719,Hari Chand,M,27.0,172.0,63.0,1980,Moskva,Athletics,"Men's 10,000 metres",No Medal,Hari Chand,Endurance,198.0
+19719,Hari Chand,M,27.0,172.0,63.0,1980,Moskva,Athletics,Men's Marathon,No Medal,Hari Chand,Endurance,198.0
+19720,Lal Chand Nil,M,32.0,177.0,62.0,1960,Roma,Athletics,Men's Marathon,No Medal,Lal Chand Nil,Endurance,196.0
+19722,Udey Chand,M,25.0,175.0,70.0,1960,Roma,Wrestling,"Men's Welterweight, Freestyle",No Medal,Udey Chand,Combat,196.0
+19722,Udey Chand,M,29.0,175.0,70.0,1964,Tokyo,Wrestling,"Men's Lightweight, Freestyle",No Medal,Udey Chand,Combat,196.4
+19722,Udey Chand,M,33.0,175.0,70.0,1968,Mexico City,Wrestling,"Men's Lightweight, Freestyle",No Medal,Udey Chand,Combat,196.8
+19727,Apurvi Singh Chandela,F,23.0,157.0,54.0,2016,Rio de Janeiro,Shooting,"Women's Air Rifle, 10 metres",No Medal,Apurvi Singh Chandela,Precision,201.6
+19728,Raghavan Chanderasekaran,M,18.0,150.0,54.0,1988,Seoul,Weightlifting,Men's Flyweight,No Medal,Raghavan Chanderasekaran,Speed & Power,198.8
+19728,Raghavan Chanderasekaran,M,26.0,150.0,54.0,1996,Atlanta,Weightlifting,Men's Bantamweight,No Medal,Raghavan Chanderasekaran,Speed & Power,199.6
+19742,Menon Chandrasekhar,M,24.0,170.0,63.0,1960,Roma,Football,Men's Football,No Medal,Menon Chandrasekhar,Team Sports,196.0
+19986,Prithipal Chatterjee,M,28.0,171.0,59.0,1972,Munich,Shooting,"Mixed Small-Bore Rifle, Prone, 50 metres",No Medal,Prithipal Chatterjee,Precision,197.2
+20005,Devesh Singh Chauhan,M,22.0,153.0,84.0,2004,Athina,Hockey,Men's Hockey,No Medal,Devesh Singh Chauhan,Team Sports,200.4
+20062,Shiv Sankar Prasad Chawrasia,M,38.0,165.0,67.0,2016,Rio de Janeiro,Golf,Men's Individual,No Medal,Shiv Sankar Prasad Chawrasia,Precision,201.6
+20107,Paul Cheema Singh,M,39.0,169.0,77.0,1960,Roma,Shooting,"Men's Rapid-Fire Pistol, 25 metres",No Medal,Paul Cheema Singh,Precision,196.0
+20341,Kynan Darius Chenai,M,25.0,200.0,85.0,2016,Rio de Janeiro,Shooting,Men's Trap,No Medal,Kynan Darius Chenai,Precision,201.6
+20565,Bir Bahadur Chettri,M,20.0,165.0,68.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Bir Bahadur Chettri,Team Sports,197.6
+20565,Bir Bahadur Chettri,M,24.0,165.0,68.0,1980,Moskva,Hockey,Men's Hockey,Gold,Bir Bahadur Chettri,Team Sports,198.0
+21165,"Souren ""Roy"" Choudhury",M,26.0,183.0,58.0,1972,Munich,Shooting,"Mixed Small-Bore Rifle, Prone, 50 metres",No Medal,Souren Choudhury,Precision,197.2
+21165,"Souren ""Roy"" Choudhury",M,34.0,183.0,58.0,1980,Moskva,Shooting,"Mixed Small-Bore Rifle, Prone, 50 metres",No Medal,Souren Choudhury,Precision,198.0
+21339,Rajendra Absolem Christy,M,30.0,165.0,58.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Rajendra Absolem Christy,Team Sports,196.8
+21912,Leslie Walter Claudius,M,21.0,162.0,53.0,1948,London,Hockey,Men's Hockey,Gold,Leslie Walter Claudius,Team Sports,194.8
+21912,Leslie Walter Claudius,M,25.0,162.0,53.0,1952,Helsinki,Hockey,Men's Hockey,Gold,Leslie Walter Claudius,Team Sports,195.2
+21912,Leslie Walter Claudius,M,29.0,162.0,53.0,1956,Melbourne,Hockey,Men's Hockey,Gold,Leslie Walter Claudius,Team Sports,195.6
+21912,Leslie Walter Claudius,M,33.0,162.0,53.0,1960,Roma,Hockey,Men's Hockey,Silver,Leslie Walter Claudius,Team Sports,196.0
+23098,Charles Cornelius,M,26.0,170.0,65.0,1972,Munich,Hockey,Men's Hockey,Bronze,Charles Cornelius,Team Sports,197.2
+23503,Anthony Francis Coutinho,M,24.0,172.0,63.0,1964,Tokyo,Athletics,Men's 4 x 100 metres Relay,No Medal,Anthony Francis Coutinho,Speed & Power,196.4
+24786,Mohammed Samir Dad,M,21.0,180.0,67.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Mohammed Samir Dad,Team Sports,200.0
+25425,Atanu Das,M,24.0,175.0,79.0,2016,Rio de Janeiro,Archery,Men's Individual,No Medal,Atanu Das,Precision,201.6
+25427,Mouma Das,F,20.0,149.0,47.0,2004,Athina,Table Tennis,Women's Singles,No Medal,Mouma Das,Racket Sports,200.4
+25427,Mouma Das,F,32.0,149.0,47.0,2016,Rio de Janeiro,Table Tennis,Women's Singles,No Medal,Mouma Das,Racket Sports,201.6
+25464,Amala Dass,M,23.0,166.0,51.0,1980,Moskva,Boxing,Men's Flyweight,No Medal,Amala Dass,Combat,198.0
+27793,Deepali Deshpande,F,35.0,159.0,54.0,2004,Athina,Shooting,"Women's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Deepali Deshpande,Precision,200.4
+27944,Laishram Bombayla Devi,F,23.0,164.0,60.0,2008,Beijing,Archery,Women's Individual,No Medal,Laishram Bombayla Devi,Precision,200.8
+27944,Laishram Bombayla Devi,F,23.0,164.0,60.0,2008,Beijing,Archery,Women's Team,No Medal,Laishram Bombayla Devi,Precision,200.8
+27944,Laishram Bombayla Devi,F,27.0,164.0,60.0,2012,London,Archery,Women's Individual,No Medal,Laishram Bombayla Devi,Precision,201.2
+27944,Laishram Bombayla Devi,F,27.0,164.0,60.0,2012,London,Archery,Women's Team,No Medal,Laishram Bombayla Devi,Precision,201.2
+27944,Laishram Bombayla Devi,F,31.0,164.0,60.0,2016,Rio de Janeiro,Archery,Women's Individual,No Medal,Laishram Bombayla Devi,Precision,201.6
+27944,Laishram Bombayla Devi,F,31.0,164.0,60.0,2016,Rio de Janeiro,Archery,Women's Team,No Medal,Laishram Bombayla Devi,Precision,201.6
+27945,Khumujam Tombi Devi,F,26.0,154.0,48.0,2008,Beijing,Judo,Women's Extra-Lightweight,No Medal,Khumujam Tombi Devi,Combat,200.8
+27946,Lourembam Brojeshori Devi,F,19.0,157.0,52.0,2000,Sydney,Judo,Women's Half-Lightweight,No Medal,Lourembam Brojeshori Devi,Combat,200.0
+27975,Somdev Kishore Devvarman,M,27.0,180.0,73.0,2012,London,Tennis,Men's Singles,No Medal,Somdev Kishore Devvarman,Racket Sports,201.2
+27999,Saraswati Amit Dey-Saha,F,20.0,154.0,53.0,2000,Sydney,Athletics,Women's 4 x 100 metres Relay,No Medal,Saraswati Amit Dey-Saha,Speed & Power,200.0
+27999,Saraswati Amit Dey-Saha,F,24.0,154.0,53.0,2004,Athina,Athletics,Women's 200 metres,No Medal,Saraswati Amit Dey-Saha,Speed & Power,200.4
+28039,Ayyasamy Dharun,M,19.0,177.0,64.0,2016,Rio de Janeiro,Athletics,Men's 4 x 400 metres Relay,No Medal,Ayyasamy Dharun,Speed & Power,201.6
+28044,Kartar Dhillon Singh,M,26.0,175.0,100.0,1980,Moskva,Wrestling,"Men's Light-Heavyweight, Freestyle",No Medal,Kartar Dhillon Singh,Combat,198.0
+28044,Kartar Dhillon Singh,M,30.0,175.0,100.0,1984,Los Angeles,Wrestling,"Men's Heavyweight, Freestyle",No Medal,Kartar Dhillon Singh,Combat,198.4
+28044,Kartar Dhillon Singh,M,34.0,175.0,100.0,1988,Seoul,Wrestling,"Men's Heavyweight, Freestyle",No Medal,Kartar Dhillon Singh,Combat,198.8
+28672,Parvez Irani Diniar,M,26.0,180.0,67.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Parvez Irani Diniar,Team Sports,198.0
+28804,Ashok Diwan,M,21.0,160.0,60.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Ashok Diwan,Team Sports,197.6
+30166,Adrian Albert D'Souza,M,20.0,170.0,62.0,2004,Athina,Hockey,Men's Hockey,No Medal,Adrian Albert D'Souza,Team Sports,200.4
+30173,"Stephanie ""Stephie"" D'Souza (Sequeira-)",F,27.0,158.0,50.0,1964,Tokyo,Athletics,Women's 400 metres,No Medal,Stephanie D'Souza,Speed & Power,196.4
+30260,Preeti Dubey,F,18.0,166.0,53.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Preeti Dubey,Team Sports,201.6
+30912,Sunil Dutt,M,16.0,157.0,48.0,1984,Los Angeles,Wrestling,"Men's Light-Flyweight, Freestyle",No Medal,Sunil Dutt,Combat,198.4
+30913,Yogeshwar Dutt,M,21.0,168.0,65.0,2004,Athina,Wrestling,"Men's Featherweight, Freestyle",No Medal,Yogeshwar Dutt,Combat,200.4
+30913,Yogeshwar Dutt,M,25.0,168.0,65.0,2008,Beijing,Wrestling,"Men's Lightweight, Freestyle",No Medal,Yogeshwar Dutt,Combat,200.8
+30913,Yogeshwar Dutt,M,29.0,168.0,65.0,2012,London,Wrestling,"Men's Lightweight, Freestyle",Bronze,Yogeshwar Dutt,Combat,201.2
+30913,Yogeshwar Dutt,M,33.0,168.0,65.0,2016,Rio de Janeiro,Wrestling,"Men's Welterweight, Freestyle",No Medal,Yogeshwar Dutt,Combat,201.6
+30914,Soma Dutta,F,16.0,160.0,46.0,1984,Los Angeles,Shooting,"Women's Air Rifle, 10 metres",No Medal,Soma Dutta,Precision,198.4
+30914,Soma Dutta,F,16.0,160.0,46.0,1984,Los Angeles,Shooting,"Women's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Soma Dutta,Precision,198.4
+30914,Soma Dutta,F,20.0,160.0,46.0,1988,Seoul,Shooting,"Women's Air Rifle, 10 metres",No Medal,Soma Dutta,Precision,198.8
+30914,Soma Dutta,F,20.0,160.0,46.0,1988,Seoul,Shooting,"Women's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Soma Dutta,Precision,198.8
+30914,Soma Dutta,F,24.0,160.0,46.0,1992,Barcelona,Shooting,"Women's Air Rifle, 10 metres",No Medal,Soma Dutta,Precision,199.2
+30914,Soma Dutta,F,24.0,160.0,46.0,1992,Barcelona,Shooting,"Women's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Soma Dutta,Precision,199.2
+31804,Karunagaran Ekambaram,M,26.0,164.0,52.0,1980,Moskva,Weightlifting,Men's Flyweight,No Medal,Karunagaran Ekambaram,Speed & Power,198.0
+31835,Deep Grace Ekka,F,22.0,158.0,63.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Deep Grace Ekka,Team Sports,201.6
+34901,Merwyn Fernandis,M,21.0,159.0,62.0,1980,Moskva,Hockey,Men's Hockey,Gold,Merwyn Fernandis,Team Sports,198.0
+34901,Merwyn Fernandis,M,25.0,159.0,62.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Merwyn Fernandis,Team Sports,198.4
+34901,Merwyn Fernandis,M,29.0,159.0,62.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Merwyn Fernandis,Team Sports,198.8
+36670,John William Francis,M,23.0,168.0,57.0,1988,Seoul,Boxing,Men's Featherweight,No Medal,John William Francis,Combat,198.8
+36928,Manuel Frederick,M,23.0,172.0,65.0,1972,Munich,Hockey,Men's Hockey,Bronze,Manuel Frederick,Team Sports,197.2
+38264,Prameela Gudandda Ganapathy (-Aiyappa),F,23.0,167.0,57.0,2000,Sydney,Athletics,Women's Heptathlon,No Medal,Prameela Gudandda Ganapathy,Technical / Mixed,200.0
+38264,Prameela Gudandda Ganapathy (-Aiyappa),F,31.0,167.0,57.0,2008,Beijing,Athletics,Women's Heptathlon,No Medal,Prameela Gudandda Ganapathy,Technical / Mixed,200.8
+39333,Sathi Geetha,F,21.0,156.0,52.0,2004,Athina,Athletics,Women's 4 x 400 metres Relay,No Medal,Sathi Geetha,Speed & Power,200.4
+39333,Sathi Geetha,F,25.0,156.0,52.0,2008,Beijing,Athletics,Women's 4 x 400 metres Relay,No Medal,Sathi Geetha,Speed & Power,200.8
+39956,Poulomi Ghatak,F,17.0,168.0,51.0,2000,Sydney,Table Tennis,Women's Singles,No Medal,Poulomi Ghatak,Racket Sports,200.0
+40048,Mohon Lal Ghosh,M,20.0,164.0,60.0,1964,Tokyo,Weightlifting,Men's Bantamweight,No Medal,Mohon Lal Ghosh,Speed & Power,196.4
+40048,Mohon Lal Ghosh,M,24.0,164.0,60.0,1968,Mexico City,Weightlifting,Men's Featherweight,No Medal,Mohon Lal Ghosh,Speed & Power,196.8
+40050,Soumyajit Ghosh,M,19.0,168.0,69.0,2012,London,Table Tennis,Men's Singles,No Medal,Soumyajit Ghosh,Racket Sports,201.2
+40050,Soumyajit Ghosh,M,23.0,168.0,69.0,2016,Rio de Janeiro,Table Tennis,Men's Singles,No Medal,Soumyajit Ghosh,Racket Sports,201.6
+40083,Parkash Gian,M,23.0,165.0,67.0,1960,Roma,Wrestling,"Men's Lightweight, Freestyle",No Medal,Parkash Gian,Combat,196.0
+41265,Marcellus Marcus Gomes,M,23.0,164.0,59.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Marcellus Marcus Gomes,Team Sports,198.4
+41743,Thonakal Gopi,M,28.0,166.0,56.0,2016,Rio de Janeiro,Athletics,Men's Marathon,No Medal,Thonakal Gopi,Endurance,201.6
+41744,Pulella Gopichand,M,26.0,182.0,63.0,2000,Sydney,Badminton,Men's Singles,No Medal,Pulella Gopichand,Racket Sports,200.0
+41978,Subimal Goswami,M,22.0,175.0,56.0,1960,Roma,Football,Men's Football,No Medal,Subimal Goswami,Team Sports,196.0
+42120,Deven Govindasami,M,21.0,163.0,56.0,1984,Los Angeles,Weightlifting,Men's Bantamweight,No Medal,Deven Govindasami,Speed & Power,198.4
+42127,Vikas Shive Gowda,M,21.0,190.0,110.0,2004,Athina,Athletics,Men's Discus Throw,No Medal,Vikas Shive Gowda,Speed & Power,200.4
+42127,Vikas Shive Gowda,M,25.0,190.0,110.0,2008,Beijing,Athletics,Men's Discus Throw,No Medal,Vikas Shive Gowda,Speed & Power,200.8
+42127,Vikas Shive Gowda,M,29.0,190.0,110.0,2012,London,Athletics,Men's Discus Throw,No Medal,Vikas Shive Gowda,Speed & Power,201.2
+42127,Vikas Shive Gowda,M,33.0,190.0,110.0,2016,Rio de Janeiro,Athletics,Men's Discus Throw,No Medal,Vikas Shive Gowda,Speed & Power,201.6
+43990,Abhinn Shyam Gupta,M,24.0,172.0,68.0,2004,Athina,Badminton,Men's Singles,No Medal,Abhinn Shyam Gupta,Racket Sports,200.4
+44027,Dilip Gurumurthy,M,23.0,188.0,70.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Dilip Gurumurthy,Team Sports,198.0
+44207,Jwala Gutta,F,28.0,178.0,85.0,2012,London,Badminton,Mixed Doubles,No Medal,Jwala Gutta,Racket Sports,201.2
+44207,Jwala Gutta,F,28.0,178.0,85.0,2012,London,Badminton,Women's Doubles,No Medal,Jwala Gutta,Racket Sports,201.2
+44207,Jwala Gutta,F,32.0,178.0,85.0,2016,Rio de Janeiro,Badminton,Women's Doubles,No Medal,Jwala Gutta,Racket Sports,201.6
+44527,Hakimuddin Shabbir Habibulla,M,20.0,167.0,62.0,2000,Sydney,Swimming,Men's 200 metres Freestyle,No Medal,Hakimuddin Shabbir Habibulla,Speed & Power,200.0
+44923,Arjun Halappa,M,24.0,162.0,61.0,2004,Athina,Hockey,Men's Hockey,No Medal,Arjun Halappa,Team Sports,200.4
+52326,Zafar Iqbal,M,24.0,172.0,65.0,1980,Moskva,Hockey,Men's Hockey,Gold,Zafar Iqbal,Team Sports,198.0
+52326,Zafar Iqbal,M,28.0,172.0,65.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Zafar Iqbal,Team Sports,198.4
+53361,"Orchatteri Puthiya Veetil ""O. P."" Jaisha",F,33.0,154.0,43.0,2016,Rio de Janeiro,Athletics,Women's Marathon,No Medal,Orchatteri Puthiya Veetil Jaisha,Endurance,201.6
+53504,Romeo James,M,25.0,165.0,61.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Romeo James,Team Sports,198.4
+53784,Sohrab Janshed Contractor,M,34.0,175.0,80.0,1972,Munich,Sailing,Mixed Two Person Heavyweight Dinghy,No Medal,Sohrab Janshed Contractor,Technical / Mixed,197.2
+54080,Valdivel Jayalakshmi,F,29.0,172.0,67.0,2000,Sydney,Athletics,Women's 4 x 100 metres Relay,No Medal,Valdivel Jayalakshmi,Speed & Power,200.0
+55065,Nachhatar Singh Johal,M,29.0,185.0,98.0,2008,Beijing,Sailing,Mixed One Person Dinghy,No Medal,Nachhatar Singh Johal,Technical / Mixed,200.8
+55544,Mayookha Mathalikunnel Johny,F,24.0,174.0,58.0,2012,London,Athletics,Women's Triple Jump,No Medal,Mayookha Mathalikunnel Johny,Speed & Power,201.2
+55981,Raj Joshi Tilak,M,23.0,171.0,60.0,1960,Roma,Athletics,Men's 100 metres,No Medal,Raj Joshi Tilak,Speed & Power,196.0
+56300,Samresh Jung,M,38.0,173.0,105.0,2008,Beijing,Shooting,"Men's Air Pistol, 10 metres",No Medal,Samresh Jung,Precision,200.8
+56300,Samresh Jung,M,38.0,173.0,105.0,2008,Beijing,Shooting,"Men's Free Pistol, 50 metres",No Medal,Samresh Jung,Precision,200.8
+57210,Nikhil Kanetkar,M,25.0,173.0,63.0,2004,Athina,Badminton,Men's Singles,No Medal,Nikhil Kanetkar,Racket Sports,200.4
+57239,Chinglensana Kangujam,M,24.0,169.0,72.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Chinglensana Kangujam,Team Sports,201.6
+57258,Dharmalingam Kannan,M,24.0,163.0,54.0,1960,Roma,Football,Men's Football,No Medal,Dharmalingam Kannan,Team Sports,196.0
+57259,Mahendran Kannan,M,20.0,155.0,52.0,1984,Los Angeles,Weightlifting,Men's Flyweight,No Medal,Mahendran Kannan,Speed & Power,198.4
+57668,Dipa Karmakar,F,22.0,151.0,47.0,2016,Rio de Janeiro,Gymnastics,Women's Individual All-Around,No Medal,Dipa Karmakar,Technical / Mixed,201.6
+57668,Dipa Karmakar,F,22.0,151.0,47.0,2016,Rio de Janeiro,Gymnastics,Women's Floor Exercise,No Medal,Dipa Karmakar,Technical / Mixed,201.6
+57668,Dipa Karmakar,F,22.0,151.0,47.0,2016,Rio de Janeiro,Gymnastics,Women's Horse Vault,No Medal,Dipa Karmakar,Technical / Mixed,201.6
+57668,Dipa Karmakar,F,22.0,151.0,47.0,2016,Rio de Janeiro,Gymnastics,Women's Uneven Bars,No Medal,Dipa Karmakar,Technical / Mixed,201.6
+57668,Dipa Karmakar,F,22.0,151.0,47.0,2016,Rio de Janeiro,Gymnastics,Women's Balance Beam,No Medal,Dipa Karmakar,Technical / Mixed,201.6
+57669,Joydeep Karmakar,M,32.0,177.0,73.0,2012,London,Shooting,"Men's Small-Bore Rifle, Prone, 50 metres",No Medal,Joydeep Karmakar,Precision,201.2
+57955,Shivani Kataria,F,18.0,163.0,60.0,2016,Rio de Janeiro,Swimming,Women's 200 metres Freestyle,No Medal,Shivani Kataria,Speed & Power,201.6
+57956,Vandana Katariya,F,24.0,159.0,48.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Vandana Katariya,Team Sports,201.6
+58092,Gurmeet Kaur Rai,F,30.0,175.0,74.0,2000,Sydney,Athletics,Women's Javelin Throw,No Medal,Gurmeet Kaur Rai,Speed & Power,200.0
+58093,Harwant Kaur,F,24.0,168.0,70.0,2004,Athina,Athletics,Women's Discus Throw,No Medal,Harwant Kaur,Speed & Power,200.4
+58093,Harwant Kaur,F,28.0,168.0,70.0,2008,Beijing,Athletics,Women's Discus Throw,No Medal,Harwant Kaur,Speed & Power,200.8
+58095,Mandeep Kaur,F,20.0,156.0,54.0,2008,Beijing,Athletics,Women's 400 metres,No Medal,Mandeep Kaur,Speed & Power,200.8
+58095,Mandeep Kaur,F,20.0,156.0,54.0,2008,Beijing,Athletics,Women's 4 x 400 metres Relay,No Medal,Mandeep Kaur,Speed & Power,200.8
+58096,Manjit Kaur,F,22.0,175.0,61.0,2004,Athina,Athletics,Women's 4 x 400 metres Relay,No Medal,Manjit Kaur,Speed & Power,200.4
+58096,Manjit Kaur,F,26.0,175.0,61.0,2008,Beijing,Athletics,Women's 4 x 400 metres Relay,No Medal,Manjit Kaur,Speed & Power,200.8
+58097,Manpreet Kaur,F,26.0,170.0,89.0,2016,Rio de Janeiro,Athletics,Women's Shot Put,No Medal,Manpreet Kaur,Speed & Power,201.6
+58098,Navjot Kaur,F,21.0,167.0,53.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Navjot Kaur,Team Sports,201.6
+58100,Rajwinder Kaur Gill,F,24.0,158.0,53.0,2004,Athina,Athletics,Women's 4 x 400 metres Relay,No Medal,Rajwinder Kaur Gill,Speed & Power,200.4
+58104,Hari Pal Kaushik,M,22.0,178.0,77.0,1956,Melbourne,Hockey,Men's Hockey,Gold,Hari Pal Kaushik,Team Sports,195.6
+58104,Hari Pal Kaushik,M,30.0,178.0,77.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Hari Pal Kaushik,Team Sports,196.4
+58105,Maharaj Krishon Kaushik,M,25.0,163.0,60.0,1980,Moskva,Hockey,Men's Hockey,Gold,Maharaj Krishon Kaushik,Team Sports,198.0
+58642,Mariappa Kempaiah,M,23.0,165.0,62.0,1956,Melbourne,Football,Men's Football,No Medal,Mariappa Kempaiah,Team Sports,195.6
+58642,Mariappa Kempaiah,M,27.0,165.0,62.0,1960,Roma,Football,Men's Football,No Medal,Mariappa Kempaiah,Team Sports,196.0
+58898,Sen Keshav,M,36.0,172.0,72.0,1960,Roma,Shooting,Men's Trap,No Medal,Sen Keshav,Precision,196.0
+59022,Virdhawal Vikram Khade,M,16.0,191.0,83.0,2008,Beijing,Swimming,Men's 50 metres Freestyle,No Medal,Virdhawal Vikram Khade,Speed & Power,200.8
+59022,Virdhawal Vikram Khade,M,16.0,191.0,83.0,2008,Beijing,Swimming,Men's 100 metres Freestyle,No Medal,Virdhawal Vikram Khade,Speed & Power,200.8
+59022,Virdhawal Vikram Khade,M,16.0,191.0,83.0,2008,Beijing,Swimming,Men's 200 metres Freestyle,No Medal,Virdhawal Vikram Khade,Speed & Power,200.8
+59145,Aslam Sher Khan,M,22.0,163.0,76.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Aslam Sher Khan,Team Sports,197.6
+59153,Hussain Khan,M,35.0,172.0,69.0,1980,Moskva,Equestrianism,"Mixed Three-Day Event, Individual",No Medal,Hussain Khan,Technical / Mixed,198.0
+59153,Hussain Khan,M,35.0,172.0,69.0,1980,Moskva,Equestrianism,"Mixed Three-Day Event, Team",No Medal,Hussain Khan,Technical / Mixed,198.0
+59155,Kasam Khan,M,26.0,182.0,67.0,2000,Sydney,Rowing,Men's Coxless Pairs,No Medal,Kasam Khan,Endurance,200.0
+59158,Mairaj Ahmad Khan,M,40.0,181.0,82.0,2016,Rio de Janeiro,Shooting,Men's Skeet,No Medal,Mairaj Ahmad Khan,Precision,201.6
+59167,Muhammad Khan,M,36.0,169.0,63.0,1980,Moskva,Equestrianism,"Mixed Three-Day Event, Individual",No Medal,Muhammad Khan,Technical / Mixed,198.0
+59167,Muhammad Khan,M,36.0,169.0,63.0,1980,Moskva,Equestrianism,"Mixed Three-Day Event, Team",No Medal,Muhammad Khan,Technical / Mixed,198.0
+59176,Mohammed Youssef Khan,M,23.0,172.0,56.0,1960,Roma,Football,Men's Football,No Medal,Mohammed Youssef Khan,Team Sports,196.0
+59182,Devender Kumar Khandwal,M,22.0,180.0,70.0,2008,Beijing,Rowing,Men's Lightweight Double Sculls,No Medal,Devender Kumar Khandwal,Endurance,200.8
+59229,Mukesh Khatri,M,21.0,165.0,55.0,2004,Athina,Wrestling,"Men's Featherweight, Greco-Roman",No Medal,Mukesh Khatri,Combat,200.4
+59231,Ravinder Khatri,M,24.0,180.0,85.0,2016,Rio de Janeiro,Wrestling,"Men's Light-Heavyweight, Greco-Roman",No Medal,Ravinder Khatri,Combat,201.6
+59564,Srikanth Kidambi,M,23.0,178.0,66.0,2016,Rio de Janeiro,Badminton,Men's Singles,No Medal,Srikanth Kidambi,Racket Sports,201.6
+60461,Michael Kindo,M,25.0,170.0,62.0,1972,Munich,Hockey,Men's Hockey,Bronze,Michael Kindo,Team Sports,197.2
+62303,Mangte Chungneijang Mary Kom,F,29.0,158.0,51.0,2012,London,Boxing,Women's Flyweight,Bronze,Mangte Chungneijang Mary Kom,Combat,201.2
+64064,Ramesh Krishnan,M,31.0,170.0,63.0,1992,Barcelona,Tennis,Men's Singles,No Medal,Ramesh Krishnan,Racket Sports,199.2
+64064,Ramesh Krishnan,M,31.0,170.0,63.0,1992,Barcelona,Tennis,Men's Doubles,No Medal,Ramesh Krishnan,Racket Sports,199.2
+64880,Akhil Kumar,M,23.0,165.0,54.0,2004,Athina,Boxing,Men's Flyweight,No Medal,Akhil Kumar,Combat,200.4
+64880,Akhil Kumar,M,27.0,165.0,54.0,2008,Beijing,Boxing,Men's Bantamweight,No Medal,Akhil Kumar,Combat,200.8
+64882,Amit Kumar Dahiya,M,18.0,161.0,56.5,2012,London,Wrestling,"Men's Featherweight, Freestyle",No Medal,Amit Kumar Dahiya,Combat,201.2
+64884,Anuj Kumar,M,24.0,175.0,84.0,2004,Athina,Wrestling,"Men's Light-Heavyweight, Freestyle",No Medal,Anuj Kumar,Combat,200.4
+64886,Ashok Kumar,M,22.0,170.0,57.0,1972,Munich,Hockey,Men's Hockey,Bronze,Ashok Kumar,Team Sports,197.2
+64886,Ashok Kumar,M,26.0,170.0,57.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Ashok Kumar,Team Sports,197.6
+64887,Ashok Kumar,M,22.0,167.0,65.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Ashok Kumar,Team Sports,198.8
+64889,Charanjit Kumar,M,24.0,174.0,73.0,1980,Moskva,Hockey,Men's Hockey,Gold,Charanjit Kumar,Team Sports,198.0
+64889,Charanjit Kumar,M,28.0,174.0,73.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Charanjit Kumar,Team Sports,198.4
+64890,Dinesh Kumar,M,19.0,183.0,81.0,2008,Beijing,Boxing,Men's Light-Heavyweight,No Medal,Dinesh Kumar,Combat,200.8
+64891,Gundeep Kumar,M,23.0,167.0,66.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Gundeep Kumar,Team Sports,198.8
+64892,Jitender Kumar,M,23.0,171.0,81.0,2000,Sydney,Boxing,Men's Middleweight,No Medal,Jitender Kumar,Combat,200.0
+64892,Jitender Kumar,M,26.0,171.0,81.0,2004,Athina,Boxing,Men's Light-Heavyweight,No Medal,Jitender Kumar,Combat,200.4
+64893,Jitender Kumar,M,20.0,160.0,51.0,2008,Beijing,Boxing,Men's Flyweight,No Medal,Jitender Kumar,Combat,200.8
+64894,Manoj Kumar Kaltagediya,M,25.0,172.0,64.0,2012,London,Boxing,Men's Light-Welterweight,No Medal,Manoj Kumar Kaltagediya,Combat,201.2
+64894,Manoj Kumar Kaltagediya,M,29.0,172.0,64.0,2016,Rio de Janeiro,Boxing,Men's Light-Welterweight,No Medal,Manoj Kumar Kaltagediya,Combat,201.6
+64895,Naresh Kumar,M,22.0,160.0,74.0,1988,Seoul,Wrestling,"Men's Welterweight, Freestyle",No Medal,Naresh Kumar,Combat,198.8
+64896,Praveen Kumar Sobti,M,20.0,200.0,123.0,1968,Mexico City,Athletics,Men's Hammer Throw,No Medal,Praveen Kumar Sobti,Speed & Power,196.8
+64896,Praveen Kumar Sobti,M,24.0,200.0,123.0,1972,Munich,Athletics,Men's Discus Throw,No Medal,Praveen Kumar Sobti,Speed & Power,197.2
+64897,Rajesh Kumar,M,19.0,155.0,48.0,1988,Seoul,Wrestling,"Men's Light-Flyweight, Freestyle",No Medal,Rajesh Kumar,Combat,198.8
+64898,Ramesh Kumar,M,22.0,167.0,66.0,2004,Athina,Wrestling,"Men's Welterweight, Freestyle",No Medal,Ramesh Kumar,Combat,200.4
+64902,Sandeep Kumar,M,23.0,183.0,72.0,2012,London,Rowing,Men's Lightweight Double Sculls,No Medal,Sandeep Kumar,Endurance,201.2
+64904,Sant Kumar,M,20.0,173.0,62.0,1980,Moskva,Athletics,"Men's 1,500 metres",No Medal,Sant Kumar,Endurance,198.0
+64906,Sudesh Kumar,M,18.0,160.0,52.0,1968,Mexico City,Wrestling,"Men's Flyweight, Greco-Roman",No Medal,Sudesh Kumar,Combat,196.8
+64906,Sudesh Kumar,M,18.0,160.0,52.0,1968,Mexico City,Wrestling,"Men's Flyweight, Freestyle",No Medal,Sudesh Kumar,Combat,196.8
+64906,Sudesh Kumar,M,22.0,160.0,52.0,1972,Munich,Wrestling,"Men's Flyweight, Freestyle",No Medal,Sudesh Kumar,Combat,197.2
+64907,Sujit Kumar,M,25.0,178.0,69.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Sujit Kumar,Team Sports,198.8
+64908,Surender Kumar,M,22.0,179.0,77.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Surender Kumar,Team Sports,201.6
+64909,Sushil Kumar Solanki,M,21.0,166.0,66.0,2004,Athina,Wrestling,"Men's Lightweight, Freestyle",No Medal,Sushil Kumar Solanki,Combat,200.4
+64909,Sushil Kumar Solanki,M,25.0,166.0,66.0,2008,Beijing,Wrestling,"Men's Welterweight, Freestyle",Bronze,Sushil Kumar Solanki,Combat,200.8
+64909,Sushil Kumar Solanki,M,29.0,166.0,66.0,2012,London,Wrestling,"Men's Welterweight, Freestyle",Silver,Sushil Kumar Solanki,Combat,201.2
+64910,Vijay Kumar,M,26.0,170.0,70.0,2012,London,Shooting,"Men's Air Pistol, 10 metres",No Medal,Vijay Kumar,Precision,201.2
+64910,Vijay Kumar,M,26.0,170.0,70.0,2012,London,Shooting,"Men's Rapid-Fire Pistol, 25 metres",Silver,Vijay Kumar,Precision,201.2
+64911,Vimal Kumar,M,29.0,184.0,78.0,1992,Barcelona,Badminton,Men's Singles,No Medal,Vimal Kumar,Racket Sports,199.2
+64911,Vimal Kumar,M,29.0,184.0,78.0,1992,Barcelona,Badminton,Men's Doubles,No Medal,Vimal Kumar,Racket Sports,199.2
+64912,Vinod Kumar,M,23.0,152.0,57.0,1988,Seoul,Wrestling,"Men's Bantamweight, Freestyle",No Medal,Vinod Kumar,Combat,198.8
+64914,Anil Kumar Prakash,M,27.0,174.0,75.0,2000,Sydney,Athletics,Men's 4 x 100 metres Relay,No Medal,Anil Kumar Prakash,Speed & Power,200.0
+64915,Anil Kumar Sangwan,M,29.0,182.0,85.0,2004,Athina,Athletics,Men's Discus Throw,No Medal,Anil Kumar Sangwan,Speed & Power,200.4
+64916,Rajinder Kumar Vij,M,45.0,170.0,77.0,1984,Los Angeles,Shooting,"Men's Rapid-Fire Pistol, 25 metres",No Medal,Rajinder Kumar Vij,Precision,198.4
+64918,Deepika Kumari,F,18.0,163.0,61.0,2012,London,Archery,Women's Individual,No Medal,Deepika Kumari,Precision,201.2
+64918,Deepika Kumari,F,18.0,163.0,61.0,2012,London,Archery,Women's Team,No Medal,Deepika Kumari,Precision,201.2
+64918,Deepika Kumari,F,22.0,163.0,61.0,2016,Rio de Janeiro,Archery,Women's Individual,No Medal,Deepika Kumari,Precision,201.6
+64918,Deepika Kumari,F,22.0,163.0,61.0,2016,Rio de Janeiro,Archery,Women's Team,No Medal,Deepika Kumari,Precision,201.6
+64919,Reena Kumari,F,20.0,165.0,69.0,2004,Athina,Archery,Women's Individual,No Medal,Reena Kumari,Precision,200.4
+64919,Reena Kumari,F,20.0,165.0,69.0,2004,Athina,Archery,Women's Team,No Medal,Reena Kumari,Precision,200.4
+64920,Sahana Kumari,F,30.0,176.0,59.0,2012,London,Athletics,Women's High Jump,No Medal,Sahana Kumari,Speed & Power,201.2
+64988,Namecrakpam Kunjarani Devi,F,36.0,148.0,48.0,2004,Athina,Weightlifting,Women's Flyweight,No Medal,Namecrakpam Kunjarani Devi,Speed & Power,200.4
+64992,Rosa Kutty Kunnath Chacko,F,32.0,161.0,47.0,1996,Atlanta,Athletics,Women's 4 x 400 metres Relay,No Medal,Rosa Kutty Kunnath Chacko,Speed & Power,199.6
+64992,Rosa Kutty Kunnath Chacko,F,36.0,161.0,47.0,2000,Sydney,Athletics,Women's 4 x 400 metres Relay,No Medal,Rosa Kutty Kunnath Chacko,Speed & Power,200.0
+65299,"Alapurackal ""Mercy"" Kuttan-Mathews",F,27.0,164.0,51.0,1988,Seoul,Athletics,Women's 400 metres,No Medal,Alapurackal Kuttan-Mathews,Speed & Power,198.8
+65299,"Alapurackal ""Mercy"" Kuttan-Mathews",F,27.0,164.0,51.0,1988,Seoul,Athletics,Women's 4 x 400 metres Relay,No Medal,Alapurackal Kuttan-Mathews,Speed & Power,198.8
+66052,Anthresh Lalit Lakra,M,24.0,170.0,57.0,2008,Beijing,Boxing,Men's Featherweight,No Medal,Anthresh Lalit Lakra,Combat,200.8
+66054,Sunita Lakra,F,25.0,158.0,57.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Sunita Lakra,Team Sports,201.6
+66058,Harbans Lal,M,26.0,171.0,63.0,1964,Tokyo,Athletics,Men's Marathon,No Medal,Harbans Lal,Endurance,196.4
+66061,Mohinder Lal,M,24.0,165.0,58.0,1960,Roma,Hockey,Men's Hockey,Silver,Mohinder Lal,Team Sports,196.0
+66061,Mohinder Lal,M,28.0,165.0,58.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Mohinder Lal,Team Sports,196.4
+66062,Mohinder Lal,M,37.0,180.0,83.0,1984,Los Angeles,Shooting,"Men's Rapid-Fire Pistol, 25 metres",No Medal,Mohinder Lal,Precision,198.4
+66129,Indrajit Singh Lamba,M,46.0,176.0,70.0,1996,Atlanta,Equestrianism,"Mixed Three-Day Event, Individual",No Medal,Indrajit Singh Lamba,Technical / Mixed,199.6
+67010,Sheikh Abdul L. Latif,M,23.0,180.0,68.0,1952,Helsinki,Football,Men's Football,No Medal,Sheikh Abdul L. Latif,Team Sports,195.2
+67010,Sheikh Abdul L. Latif,M,28.0,180.0,68.0,1956,Melbourne,Football,Men's Football,No Medal,Sheikh Abdul L. Latif,Team Sports,195.6
+67010,Sheikh Abdul L. Latif,M,32.0,180.0,68.0,1960,Roma,Football,Men's Football,No Medal,Sheikh Abdul L. Latif,Team Sports,196.0
+67372,Shankar Pillay Laxman,M,23.0,167.0,64.0,1956,Melbourne,Hockey,Men's Hockey,Gold,Shankar Pillay Laxman,Team Sports,195.6
+67372,Shankar Pillay Laxman,M,27.0,167.0,64.0,1960,Roma,Hockey,Men's Hockey,Silver,Shankar Pillay Laxman,Team Sports,196.0
+67372,Shankar Pillay Laxman,M,31.0,167.0,64.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Shankar Pillay Laxman,Team Sports,196.4
+72165,Tintu Luka,F,23.0,163.0,50.0,2012,London,Athletics,Women's 800 metres,No Medal,Tintu Luka,Endurance,201.2
+72165,Tintu Luka,F,27.0,163.0,50.0,2016,Rio de Janeiro,Athletics,Women's 800 metres,No Medal,Tintu Luka,Endurance,201.6
+72165,Tintu Luka,F,27.0,163.0,50.0,2016,Rio de Janeiro,Athletics,Women's 4 x 400 metres Relay,No Medal,Tintu Luka,Speed & Power,201.6
+72769,Sujeet Maan,M,25.0,167.0,74.0,2004,Athina,Wrestling,"Men's Middleweight, Freestyle",No Medal,Sujeet Maan,Combat,200.4
+73537,Renjith Maheshwary,M,22.0,184.0,79.0,2008,Beijing,Athletics,Men's Triple Jump,No Medal,Renjith Maheshwary,Speed & Power,200.8
+73537,Renjith Maheshwary,M,26.0,184.0,79.0,2012,London,Athletics,Men's Triple Jump,No Medal,Renjith Maheshwary,Speed & Power,201.2
+73537,Renjith Maheshwary,M,30.0,184.0,79.0,2016,Rio de Janeiro,Athletics,Men's Triple Jump,No Medal,Renjith Maheshwary,Speed & Power,201.6
+73759,Laxmirani Majhi,F,27.0,161.0,56.0,2016,Rio de Janeiro,Archery,Women's Individual,No Medal,Laxmirani Majhi,Precision,201.6
+73759,Laxmirani Majhi,F,27.0,161.0,56.0,2016,Rio de Janeiro,Archery,Women's Team,No Medal,Laxmirani Majhi,Precision,201.6
+74065,Monika Malik,F,22.0,162.0,51.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Monika Malik,Team Sports,201.6
+74069,Sakshi Malik,F,23.0,162.0,58.0,2016,Rio de Janeiro,Wrestling,"Women's Lightweight, Freestyle",Bronze,Sakshi Malik,Combat,201.6
+74111,Manikyalu Malla Venkata,M,26.0,152.0,52.0,1984,Los Angeles,Weightlifting,Men's Flyweight,No Medal,Manikyalu Malla Venkata,Speed & Power,198.4
+74119,Karnam Malleswari,F,25.0,163.0,60.0,2000,Sydney,Weightlifting,Women's Light-Heavyweight,Bronze,Karnam Malleswari,Speed & Power,200.0
+74119,Karnam Malleswari,F,29.0,163.0,60.0,2004,Athina,Weightlifting,Women's Middleweight,No Medal,Karnam Malleswari,Speed & Power,200.4
+74377,Maruti Mane,M,26.0,175.0,97.0,1964,Tokyo,Wrestling,"Men's Light-Heavyweight, Greco-Roman",No Medal,Maruti Mane,Combat,196.4
+74377,Maruti Mane,M,26.0,175.0,97.0,1964,Tokyo,Wrestling,"Men's Light-Heavyweight, Freestyle",No Medal,Maruti Mane,Combat,196.4
+74392,Somaya Muttana Maneypandey,M,21.0,179.0,69.0,1980,Moskva,Hockey,Men's Hockey,Gold,Somaya Muttana Maneypandey,Team Sports,198.0
+74392,Somaya Muttana Maneypandey,M,25.0,179.0,69.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Somaya Muttana Maneypandey,Team Sports,198.4
+74392,Somaya Muttana Maneypandey,M,29.0,179.0,69.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Somaya Muttana Maneypandey,Team Sports,198.8
+74544,Ganapathy Manoharan,M,23.0,166.0,55.0,1980,Moskva,Boxing,Men's Bantamweight,No Medal,Ganapathy Manoharan,Combat,198.0
+75991,Adkar Maruti,M,22.0,155.0,48.0,1972,Munich,Wrestling,"Men's Light-Flyweight, Freestyle",No Medal,Adkar Maruti,Combat,197.2
+78127,Shyam Lal Meena,M,23.0,165.0,62.0,1988,Seoul,Archery,Men's Individual,No Medal,Shyam Lal Meena,Precision,198.8
+78127,Shyam Lal Meena,M,23.0,165.0,62.0,1988,Seoul,Archery,Men's Team,No Medal,Shyam Lal Meena,Precision,198.8
+78208,Nghlhav Mehtabs Singh,M,23.0,174.0,79.0,1972,Munich,Boxing,Men's Light-Heavyweight,No Medal,Nghlhav Mehtabs Singh,Combat,197.2
+78700,Jude Menezes,M,29.0,172.0,75.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Jude Menezes,Team Sports,200.0
+79948,Nisha Millet,F,18.0,164.0,58.0,2000,Sydney,Swimming,Women's 200 metres Freestyle,No Medal,Nisha Millet,Speed & Power,200.0
+80203,Lilima Minz,F,22.0,158.0,52.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Lilima Minz,Team Sports,201.6
+80221,Chanu Saikhom Mirabai,F,21.0,145.0,48.0,2016,Rio de Janeiro,Weightlifting,Women's Flyweight,No Medal,Chanu Saikhom Mirabai,Speed & Power,201.6
+80297,Sania Mirza,F,21.0,173.0,57.0,2008,Beijing,Tennis,Women's Singles,No Medal,Sania Mirza,Racket Sports,200.8
+80297,Sania Mirza,F,21.0,173.0,57.0,2008,Beijing,Tennis,Women's Doubles,No Medal,Sania Mirza,Racket Sports,200.8
+80297,Sania Mirza,F,25.0,173.0,57.0,2012,London,Tennis,Mixed Doubles,No Medal,Sania Mirza,Racket Sports,201.2
+80297,Sania Mirza,F,25.0,173.0,57.0,2012,London,Tennis,Women's Doubles,No Medal,Sania Mirza,Racket Sports,201.2
+80297,Sania Mirza,F,29.0,173.0,57.0,2016,Rio de Janeiro,Tennis,Mixed Doubles,No Medal,Sania Mirza,Racket Sports,201.6
+80297,Sania Mirza,F,29.0,173.0,57.0,2016,Rio de Janeiro,Tennis,Women's Doubles,No Medal,Sania Mirza,Racket Sports,201.6
+80374,Rachita Mistry (Panda-),F,26.0,164.0,55.0,2000,Sydney,Athletics,Women's 4 x 100 metres Relay,No Medal,Rachita Mistry,Speed & Power,200.0
+80868,Tehmasp Rustom Mogul,M,34.0,173.0,64.0,1972,Munich,Sailing,Mixed One Person Dinghy,No Medal,Tehmasp Rustom Mogul,Technical / Mixed,197.2
+81205,Ganesh Mollerapoovayya,M,26.0,172.0,66.0,1972,Munich,Hockey,Men's Hockey,Bronze,Ganesh Mollerapoovayya,Team Sports,197.2
+81313,Anil Kumar Mondal,M,21.0,157.0,52.0,1972,Munich,Weightlifting,Men's Flyweight,No Medal,Anil Kumar Mondal,Speed & Power,197.2
+81313,Anil Kumar Mondal,M,24.0,157.0,52.0,1976,Montreal,Weightlifting,Men's Flyweight,No Medal,Anil Kumar Mondal,Speed & Power,197.6
+82945,Danish Mujtaba,M,23.0,168.0,66.0,2012,London,Hockey,Men's Hockey,No Medal,Danish Mujtaba,Team Sports,201.2
+82945,Danish Mujtaba,M,27.0,168.0,66.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Danish Mujtaba,Team Sports,201.6
+83294,Tamil Selwan Muniswamy,M,25.0,158.0,56.0,1980,Moskva,Weightlifting,Men's Bantamweight,No Medal,Tamil Selwan Muniswamy,Speed & Power,198.0
+83757,Thandava Murthy Muthu,M,25.0,157.0,56.0,2000,Sydney,Weightlifting,Men's Bantamweight,No Medal,Thandava Murthy Muthu,Speed & Power,200.0
+83758,Gurunathan Muthuswamy,M,25.0,160.0,54.0,1988,Seoul,Weightlifting,Men's Flyweight,No Medal,Gurunathan Muthuswamy,Speed & Power,198.8
+84085,Amarnath Nagarajan,M,26.0,182.0,73.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Amarnath Nagarajan,Team Sports,198.0
+84470,Srabani Nanda,F,25.0,164.0,54.0,2016,Rio de Janeiro,Athletics,Women's 200 metres,No Medal,Srabani Nanda,Speed & Power,201.6
+84471,Mukesh Kumar Nandanoori,M,22.0,175.0,64.0,1992,Barcelona,Hockey,Men's Hockey,No Medal,Mukesh Kumar Nandanoori,Team Sports,199.2
+84471,Mukesh Kumar Nandanoori,M,26.0,175.0,64.0,1996,Atlanta,Hockey,Men's Hockey,No Medal,Mukesh Kumar Nandanoori,Team Sports,199.6
+84471,Mukesh Kumar Nandanoori,M,30.0,175.0,64.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Mukesh Kumar Nandanoori,Team Sports,200.0
+84480,Prakash Nanjappa,M,40.0,175.0,85.0,2016,Rio de Janeiro,Shooting,"Men's Free Pistol, 50 metres",No Medal,Prakash Nanjappa,Precision,201.6
+84516,Gagan Narang,M,21.0,180.0,115.0,2004,Athina,Shooting,"Men's Air Rifle, 10 metres",No Medal,Gagan Narang,Precision,200.4
+84516,Gagan Narang,M,25.0,180.0,115.0,2008,Beijing,Shooting,"Men's Air Rifle, 10 metres",No Medal,Gagan Narang,Precision,200.8
+84516,Gagan Narang,M,25.0,180.0,115.0,2008,Beijing,Shooting,"Men's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Gagan Narang,Precision,200.8
+84516,Gagan Narang,M,25.0,180.0,115.0,2008,Beijing,Shooting,"Men's Small-Bore Rifle, Prone, 50 metres",No Medal,Gagan Narang,Precision,200.8
+84516,Gagan Narang,M,29.0,180.0,115.0,2012,London,Shooting,"Men's Air Rifle, 10 metres",Bronze,Gagan Narang,Precision,201.2
+84516,Gagan Narang,M,29.0,180.0,115.0,2012,London,Shooting,"Men's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Gagan Narang,Precision,201.2
+84516,Gagan Narang,M,29.0,180.0,115.0,2012,London,Shooting,"Men's Small-Bore Rifle, Prone, 50 metres",No Medal,Gagan Narang,Precision,201.2
+84516,Gagan Narang,M,33.0,180.0,115.0,2016,Rio de Janeiro,Shooting,"Men's Air Rifle, 10 metres",No Medal,Gagan Narang,Precision,201.6
+84516,Gagan Narang,M,33.0,180.0,115.0,2016,Rio de Janeiro,Shooting,"Men's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Gagan Narang,Precision,201.6
+84516,Gagan Narang,M,33.0,180.0,115.0,2016,Rio de Janeiro,Shooting,"Men's Small-Bore Rifle, Prone, 50 metres",No Medal,Gagan Narang,Precision,201.6
+84522,Shankar Subramaniam Narayan,M,22.0,185.0,69.0,1956,Melbourne,Football,Men's Football,No Medal,Shankar Subramaniam Narayan,Team Sports,195.6
+84523,Chander Narayanan,M,25.0,162.0,51.0,1972,Munich,Boxing,Men's Flyweight,No Medal,Chander Narayanan,Combat,197.2
+84684,Prem Nath,M,17.0,160.0,57.0,1972,Munich,Wrestling,"Men's Bantamweight, Freestyle",No Medal,Prem Nath,Combat,197.2
+84815,V. R. Dinesh Nayak,M,25.0,172.0,74.0,2000,Sydney,Hockey,Men's Hockey,No Medal,V. R. Dinesh Nayak,Team Sports,200.0
+85112,Saina Nehwal,F,18.0,167.0,65.0,2008,Beijing,Badminton,Women's Singles,No Medal,Saina Nehwal,Racket Sports,200.8
+85112,Saina Nehwal,F,22.0,167.0,65.0,2012,London,Badminton,Women's Singles,Bronze,Saina Nehwal,Racket Sports,201.2
+85112,Saina Nehwal,F,26.0,167.0,65.0,2016,Rio de Janeiro,Badminton,Women's Singles,No Medal,Saina Nehwal,Racket Sports,201.6
+85665,Soniya Chanu Ngangbam,F,32.0,149.0,48.0,2012,London,Weightlifting,Women's Flyweight,No Medal,Soniya Chanu Ngangbam,Speed & Power,201.2
+90518,Leander Adrian Paes,M,19.0,178.0,77.0,1992,Barcelona,Tennis,Men's Singles,No Medal,Leander Adrian Paes,Racket Sports,199.2
+90518,Leander Adrian Paes,M,19.0,178.0,77.0,1992,Barcelona,Tennis,Men's Doubles,No Medal,Leander Adrian Paes,Racket Sports,199.2
+90518,Leander Adrian Paes,M,23.0,178.0,77.0,1996,Atlanta,Tennis,Men's Singles,Bronze,Leander Adrian Paes,Racket Sports,199.6
+90518,Leander Adrian Paes,M,23.0,178.0,77.0,1996,Atlanta,Tennis,Men's Doubles,No Medal,Leander Adrian Paes,Racket Sports,199.6
+90518,Leander Adrian Paes,M,27.0,178.0,77.0,2000,Sydney,Tennis,Men's Singles,No Medal,Leander Adrian Paes,Racket Sports,200.0
+90518,Leander Adrian Paes,M,27.0,178.0,77.0,2000,Sydney,Tennis,Men's Doubles,No Medal,Leander Adrian Paes,Racket Sports,200.0
+90518,Leander Adrian Paes,M,31.0,178.0,77.0,2004,Athina,Tennis,Men's Doubles,No Medal,Leander Adrian Paes,Racket Sports,200.4
+90518,Leander Adrian Paes,M,35.0,178.0,77.0,2008,Beijing,Tennis,Men's Doubles,No Medal,Leander Adrian Paes,Racket Sports,200.8
+90518,Leander Adrian Paes,M,39.0,178.0,77.0,2012,London,Tennis,Mixed Doubles,No Medal,Leander Adrian Paes,Racket Sports,201.2
+90518,Leander Adrian Paes,M,39.0,178.0,77.0,2012,London,Tennis,Men's Doubles,No Medal,Leander Adrian Paes,Racket Sports,201.2
+90518,Leander Adrian Paes,M,43.0,178.0,77.0,2016,Rio de Janeiro,Tennis,Men's Doubles,No Medal,Leander Adrian Paes,Racket Sports,201.6
+90686,Amrit Pal,M,25.0,178.0,67.0,1964,Tokyo,Athletics,Men's 400 metres Hurdles,No Medal,Amrit Pal,Speed & Power,196.4
+90686,Amrit Pal,M,25.0,178.0,67.0,1964,Tokyo,Athletics,Men's 4 x 400 metres Relay,No Medal,Amrit Pal,Speed & Power,196.4
+90999,Paulose Pandari Kunnel,M,27.0,185.0,78.0,2004,Athina,Rowing,Men's Single Sculls,No Medal,Paulose Pandari Kunnel,Endurance,200.4
+92005,Sumeet Patel,M,43.0,171.0,62.0,2004,Athina,Sailing,Mixed Skiff,No Medal,Sumeet Patel,Technical / Mixed,200.4
+92038,Bandu Patil,M,28.0,160.0,61.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Bandu Patil,Team Sports,196.4
+92114,Mark Philip Patterson,M,19.0,164.0,66.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Mark Philip Patterson,Team Sports,198.8
+92155,Ayonika Paul,F,23.0,174.0,74.0,2016,Rio de Janeiro,Shooting,"Women's Air Rifle, 10 metres",No Medal,Ayonika Paul,Precision,201.6
+93687,Krishnamurty Perumal,M,21.0,174.0,78.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Krishnamurty Perumal,Team Sports,196.8
+93687,Krishnamurty Perumal,M,24.0,174.0,78.0,1972,Munich,Hockey,Men's Hockey,Bronze,Krishnamurty Perumal,Team Sports,197.2
+93798,"Victor John ""V. J."" Peter",M,23.0,165.0,59.0,1960,Roma,Hockey,Men's Hockey,Silver,Victor John Peter,Team Sports,196.0
+93798,"Victor John ""V. J."" Peter",M,27.0,165.0,59.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Victor John Peter,Team Sports,196.4
+93798,"Victor John ""V. J."" Peter",M,31.0,165.0,59.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Victor John Peter,Team Sports,196.8
+94451,Jincy Phillip,F,23.0,173.0,58.0,2000,Sydney,Athletics,Women's 4 x 400 metres Relay,No Medal,Jincy Phillip,Speed & Power,200.0
+94495,"Vadivelu ""V. J."" Phillips",M,25.0,170.0,59.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Vadivelu Phillips,Team Sports,197.6
+94515,Geeta Phogat,F,23.0,153.0,62.0,2012,London,Wrestling,"Women's Lightweight, Freestyle",No Medal,Geeta Phogat,Combat,201.2
+94516,Vinesh Phogat,F,21.0,165.0,56.0,2016,Rio de Janeiro,Wrestling,"Women's Flyweight, Freestyle",No Medal,Vinesh Phogat,Combat,201.6
+94596,Rajasekaran Pichaya,M,23.0,167.0,57.0,1964,Tokyo,Athletics,Men's 4 x 100 metres Relay,No Medal,Rajasekaran Pichaya,Speed & Power,196.4
+94878,Dhanraj Pillay,M,24.0,170.0,68.0,1992,Barcelona,Hockey,Men's Hockey,No Medal,Dhanraj Pillay,Team Sports,199.2
+94878,Dhanraj Pillay,M,28.0,170.0,68.0,1996,Atlanta,Hockey,Men's Hockey,No Medal,Dhanraj Pillay,Team Sports,199.6
+94878,Dhanraj Pillay,M,32.0,170.0,68.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Dhanraj Pillay,Team Sports,200.0
+94878,Dhanraj Pillay,M,36.0,170.0,68.0,2004,Athina,Hockey,Men's Hockey,No Medal,Dhanraj Pillay,Team Sports,200.4
+94881,Vikram Vishnu Pillay,M,22.0,162.0,72.0,2004,Athina,Hockey,Men's Hockey,No Medal,Vikram Vishnu Pillay,Team Sports,200.4
+94977,Manoj Dattatray Pingale,M,20.0,165.0,51.0,1988,Seoul,Boxing,Men's Flyweight,No Medal,Manoj Dattatray Pingale,Combat,198.8
+96014,Rehan Jahangir Poncha,M,22.0,180.0,68.0,2008,Beijing,Swimming,Men's 200 metres Butterfly,No Medal,Rehan Jahangir Poncha,Speed & Power,200.8
+96036,Ashwini Ponnappa,F,22.0,165.0,59.0,2012,London,Badminton,Women's Doubles,No Medal,Ashwini Ponnappa,Racket Sports,201.2
+96036,Ashwini Ponnappa,F,26.0,165.0,59.0,2016,Rio de Janeiro,Badminton,Women's Doubles,No Medal,Ashwini Ponnappa,Racket Sports,201.6
+96095,Krishna Poonia,F,26.0,182.0,80.0,2008,Beijing,Athletics,Women's Discus Throw,No Medal,Krishna Poonia,Speed & Power,200.8
+96095,Krishna Poonia,F,30.0,182.0,80.0,2012,London,Athletics,Women's Discus Throw,No Medal,Krishna Poonia,Speed & Power,201.2
+96125,Lalji Aparna Popat,F,22.0,160.0,65.0,2000,Sydney,Badminton,Women's Singles,No Medal,Lalji Aparna Popat,Racket Sports,200.0
+96125,Lalji Aparna Popat,F,26.0,160.0,65.0,2004,Athina,Badminton,Women's Singles,No Medal,Lalji Aparna Popat,Racket Sports,200.4
+96374,Ankur Poseria,M,21.0,185.0,80.0,2008,Beijing,Swimming,Men's 100 metres Butterfly,No Medal,Ankur Poseria,Speed & Power,200.8
+96597,"Machettira Raju ""M.R."" Povamma",F,26.0,175.0,59.0,2016,Rio de Janeiro,Athletics,Women's 4 x 400 metres Relay,No Medal,Machettira Raju Povamma,Speed & Power,201.6
+96626,"Kenneth Lawrence ""Ken"" Powell",M,24.0,171.0,61.0,1964,Tokyo,Athletics,Men's 100 metres,No Medal,Kenneth Lawrence Powell,Speed & Power,196.4
+96626,"Kenneth Lawrence ""Ken"" Powell",M,24.0,171.0,61.0,1964,Tokyo,Athletics,Men's 200 metres,No Medal,Kenneth Lawrence Powell,Speed & Power,196.4
+96626,"Kenneth Lawrence ""Ken"" Powell",M,24.0,171.0,61.0,1964,Tokyo,Athletics,Men's 4 x 100 metres Relay,No Medal,Kenneth Lawrence Powell,Speed & Power,196.4
+96708,Jaslal Pradhan,M,27.0,168.0,90.0,1984,Los Angeles,Boxing,Men's Light-Welterweight,No Medal,Jaslal Pradhan,Combat,198.4
+96709,Nikki Pradhan,F,22.0,153.0,45.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Nikki Pradhan,Team Sports,201.6
+96729,Jai Kangar Prakash,M,26.0,185.0,90.0,1984,Los Angeles,Wrestling,"Men's Light-Heavyweight, Freestyle",No Medal,Jai Kangar Prakash,Combat,198.4
+96730,Sajan Prakash Prakash,M,22.0,178.0,70.0,2016,Rio de Janeiro,Swimming,Men's 200 metres Butterfly,No Medal,Sajan Prakash Prakash,Speed & Power,201.6
+96746,Ansuya Prasad,M,28.0,165.0,72.0,1964,Tokyo,Diving,Men's Springboard,No Medal,Ansuya Prasad,Technical / Mixed,196.4
+96747,Bahadur Prasad Singh,M,26.0,177.0,63.0,1992,Barcelona,Athletics,"Men's 5,000 metres",No Medal,Bahadur Prasad Singh,Endurance,199.2
+96747,Bahadur Prasad Singh,M,30.0,177.0,63.0,1996,Atlanta,Athletics,"Men's 1,500 metres",No Medal,Bahadur Prasad Singh,Endurance,199.6
+96750,Diwakar Prasad,M,19.0,162.0,54.0,2004,Athina,Boxing,Men's Bantamweight,No Medal,Diwakar Prasad,Combat,200.4
+96754,Satyadev Prasad,M,24.0,170.0,64.0,2004,Athina,Archery,Men's Individual,No Medal,Satyadev Prasad,Precision,200.4
+96754,Satyadev Prasad,M,24.0,170.0,64.0,2004,Athina,Archery,Men's Team,No Medal,Satyadev Prasad,Precision,200.4
+97474,Sushila Chanu Pukhrambam,F,24.0,152.0,52.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Sushila Chanu Pukhrambam,Team Sports,201.6
+97537,Savita Punia,F,26.0,171.0,59.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Savita Punia,Team Sports,201.6
+97647,Kunhu Muhammed Puthanpurakkal,M,29.0,170.0,72.0,2016,Rio de Janeiro,Athletics,Men's 4 x 400 metres Relay,No Medal,Kunhu Muhammed Puthanpurakkal,Speed & Power,201.6
+98361,Inam-ur Rahman,M,24.0,169.0,68.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Inam-ur Rahman,Team Sports,196.8
+98391,Jitu Rai,M,28.0,160.0,64.0,2016,Rio de Janeiro,Shooting,"Men's Air Pistol, 10 metres",No Medal,Jitu Rai,Precision,201.6
+98391,Jitu Rai,M,28.0,160.0,64.0,2016,Rio de Janeiro,Shooting,"Men's Free Pistol, 50 metres",No Medal,Jitu Rai,Precision,201.6
+98396,Sanjay Kumar Rai,M,21.0,178.0,78.0,2000,Sydney,Athletics,Men's Long Jump,No Medal,Sanjay Kumar Rai,Speed & Power,200.0
+98399,Tarundeep Rai,M,20.0,174.0,60.0,2004,Athina,Archery,Men's Individual,No Medal,Tarundeep Rai,Precision,200.4
+98399,Tarundeep Rai,M,20.0,174.0,60.0,2004,Athina,Archery,Men's Team,No Medal,Tarundeep Rai,Precision,200.4
+98399,Tarundeep Rai,M,28.0,174.0,60.0,2012,London,Archery,Men's Individual,No Medal,Tarundeep Rai,Precision,201.2
+98399,Tarundeep Rai,M,28.0,174.0,60.0,2012,London,Archery,Men's Team,No Medal,Tarundeep Rai,Precision,201.2
+98476,Soundarajan Arokia Rajiv,M,25.0,175.0,65.0,2016,Rio de Janeiro,Athletics,Men's 4 x 400 metres Relay,No Medal,Soundarajan Arokia Rajiv,Speed & Power,201.6
+98488,Sanjeev Rajput,M,27.0,180.0,69.0,2008,Beijing,Shooting,"Men's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Sanjeev Rajput,Precision,200.8
+98488,Sanjeev Rajput,M,27.0,180.0,69.0,2008,Beijing,Shooting,"Men's Small-Bore Rifle, Prone, 50 metres",No Medal,Sanjeev Rajput,Precision,200.8
+98488,Sanjeev Rajput,M,31.0,180.0,69.0,2012,London,Shooting,"Men's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Sanjeev Rajput,Precision,201.2
+98546,Bahadur Chettri Ram,M,23.0,157.0,59.0,1960,Roma,Football,Men's Football,No Medal,Bahadur Chettri Ram,Team Sports,196.0
+98547,Chandgi Ram,M,34.0,192.0,90.0,1972,Munich,Wrestling,"Men's Light-Heavyweight, Freestyle",No Medal,Chandgi Ram,Combat,197.2
+98548,Kheta Ram,M,29.0,169.0,53.0,2016,Rio de Janeiro,Athletics,Men's Marathon,No Medal,Kheta Ram,Endurance,201.6
+98551,Limba Ram,M,16.0,157.0,48.0,1988,Seoul,Archery,Men's Individual,No Medal,Limba Ram,Precision,198.8
+98551,Limba Ram,M,16.0,157.0,48.0,1988,Seoul,Archery,Men's Team,No Medal,Limba Ram,Precision,198.8
+98551,Limba Ram,M,20.0,157.0,48.0,1992,Barcelona,Archery,Men's Individual,No Medal,Limba Ram,Precision,199.2
+98551,Limba Ram,M,20.0,157.0,48.0,1992,Barcelona,Archery,Men's Team,No Medal,Limba Ram,Precision,199.2
+98551,Limba Ram,M,24.0,157.0,48.0,1996,Atlanta,Archery,Men's Individual,No Medal,Limba Ram,Precision,199.6
+98551,Limba Ram,M,24.0,157.0,48.0,1996,Atlanta,Archery,Men's Team,No Medal,Limba Ram,Precision,199.6
+98553,Siri Chand Ram,M,26.0,178.0,68.0,1984,Los Angeles,Athletics,Men's 20 kilometres Walk,No Medal,Siri Chand Ram,Endurance,198.4
+98558,Raghunath Vokkaliga Ramachandra,M,23.0,179.0,89.0,2012,London,Hockey,Men's Hockey,No Medal,Raghunath Vokkaliga Ramachandra,Team Sports,201.2
+98558,Raghunath Vokkaliga Ramachandra,M,27.0,179.0,89.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Raghunath Vokkaliga Ramachandra,Team Sports,201.6
+98559,S. Purukottam Ramachandran,M,29.0,180.0,68.0,2000,Sydney,Athletics,Men's 4 x 400 metres Relay,No Medal,S. Purukottam Ramachandran,Speed & Power,200.0
+98750,Rani Rampal,F,21.0,160.0,60.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Rani Rampal,Team Sports,201.6
+98793,Amarjit Singh Rana,M,20.0,175.0,63.0,1980,Moskva,Hockey,Men's Hockey,Gold,Amarjit Singh Rana,Team Sports,198.0
+98794,Basant Bahadur Rana,M,28.0,172.0,76.0,2012,London,Athletics,Men's 50 kilometres Walk,No Medal,Basant Bahadur Rana,Endurance,201.2
+98870,Poonam Rani,F,23.0,152.0,53.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Poonam Rani,Team Sports,201.6
+98911,Kelly Subbanand Rao,M,25.0,183.0,73.0,1988,Seoul,Sailing,Men's Two Person Dinghy,No Medal,Kelly Subbanand Rao,Technical / Mixed,198.8
+98913,Sunitha Rao,F,22.0,170.0,63.0,2008,Beijing,Tennis,Women's Doubles,No Medal,Sunitha Rao,Racket Sports,200.8
+98914,Vandana Rao,F,21.0,168.0,54.0,1984,Los Angeles,Athletics,Women's 4 x 400 metres Relay,No Medal,Vandana Rao,Speed & Power,198.4
+98914,Vandana Rao,F,25.0,168.0,54.0,1988,Seoul,Athletics,Women's 4 x 400 metres Relay,No Medal,Vandana Rao,Speed & Power,198.8
+99062,Viren Wilfred Rasquinha,M,23.0,170.0,65.0,2004,Athina,Hockey,Men's Hockey,No Medal,Viren Wilfred Rasquinha,Team Sports,200.4
+99103,Rajyavardhan Singh Rathore,M,34.0,188.0,85.0,2004,Athina,Shooting,Men's Double Trap,Silver,Rajyavardhan Singh Rathore,Precision,200.4
+99103,Rajyavardhan Singh Rathore,M,38.0,188.0,85.0,2008,Beijing,Shooting,Men's Double Trap,No Medal,Rajyavardhan Singh Rathore,Precision,200.8
+99208,Sreejesh Parattu Raveendran,M,24.0,183.0,79.0,2012,London,Hockey,Men's Hockey,No Medal,Sreejesh Parattu Raveendran,Team Sports,201.2
+99208,Sreejesh Parattu Raveendran,M,28.0,183.0,79.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Sreejesh Parattu Raveendran,Team Sports,201.6
+99466,Buss Sumeeth Reddy,M,24.0,182.0,64.0,2016,Rio de Janeiro,Badminton,Men's Doubles,No Medal,Buss Sumeeth Reddy,Racket Sports,201.6
+104385,Gopal Singh Saini,M,26.0,170.0,57.0,1980,Moskva,Athletics,"Men's 5,000 metres",No Medal,Gopal Singh Saini,Endurance,198.0
+104413,Munir Sait,M,28.0,170.0,65.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Munir Sait,Team Sports,196.8
+104934,Bhagirath Samai,M,26.0,170.0,64.0,1984,Los Angeles,Shooting,"Men's Air Rifle, 10 metres",No Medal,Bhagirath Samai,Precision,198.4
+104934,Bhagirath Samai,M,26.0,170.0,64.0,1984,Los Angeles,Shooting,"Men's Small-Bore Rifle, Prone, 50 metres",No Medal,Bhagirath Samai,Precision,198.4
+105114,Thing Baijan Sanamacha Chanu,F,22.0,147.0,53.0,2000,Sydney,Weightlifting,Women's Featherweight,No Medal,Thing Baijan Sanamacha Chanu,Speed & Power,200.0
+105114,Thing Baijan Sanamacha Chanu,F,26.0,147.0,53.0,2004,Athina,Weightlifting,Women's Featherweight,No Medal,Thing Baijan Sanamacha Chanu,Speed & Power,200.4
+105344,Kamaljit Kaur Sandhu (-Kooner),F,24.0,168.0,60.0,1972,Munich,Athletics,Women's 400 metres,No Medal,Kamaljit Kaur Sandhu,Speed & Power,197.2
+105665,Kamalakanta Santra,M,24.0,157.0,56.0,1984,Los Angeles,Weightlifting,Men's Featherweight,No Medal,Kamalakanta Santra,Speed & Power,198.4
+105837,Rahi Sarnobat (-Jeevan),F,21.0,158.0,66.0,2012,London,Shooting,"Women's Sporting Pistol, 25 metres",No Medal,Rahi Sarnobat,Precision,201.2
+106081,"Bondata Venkata ""B. V."" Satyanarayan",M,25.0,170.0,61.0,1960,Roma,Athletics,Men's Long Jump,No Medal,Bondata Venkata Satyanarayan,Speed & Power,196.0
+106081,"Bondata Venkata ""B. V."" Satyanarayan",M,29.0,170.0,61.0,1964,Tokyo,Athletics,Men's Long Jump,No Medal,Bondata Venkata Satyanarayan,Speed & Power,196.4
+106082,Satyawan,M,23.0,166.0,68.0,1988,Seoul,Wrestling,"Men's Lightweight, Freestyle",No Medal,Satyawan,Combat,198.8
+106328,Majhi Sawaiyan,M,20.0,165.0,61.0,2004,Athina,Archery,Men's Individual,No Medal,Majhi Sawaiyan,Precision,200.4
+106328,Majhi Sawaiyan,M,20.0,165.0,61.0,2004,Athina,Archery,Men's Team,No Medal,Majhi Sawaiyan,Precision,200.4
+106335,Govind Rao Sawant,M,24.0,171.0,60.0,1960,Roma,Hockey,Men's Hockey,Silver,Govind Rao Sawant,Team Sports,196.0
+107366,Allan Schofield,M,23.0,169.0,64.0,1980,Moskva,Hockey,Men's Hockey,Gold,Allan Schofield,Team Sports,198.0
+108104,Jude Felix Sebastian,M,23.0,162.0,62.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Jude Felix Sebastian,Team Sports,198.8
+108104,Jude Felix Sebastian,M,27.0,162.0,62.0,1992,Barcelona,Hockey,Men's Hockey,No Medal,Jude Felix Sebastian,Team Sports,199.2
+108379,Sandeep Sejwal,M,19.0,181.0,74.0,2008,Beijing,Swimming,Men's 100 metres Breaststroke,No Medal,Sandeep Sejwal,Speed & Power,200.8
+108379,Sandeep Sejwal,M,19.0,181.0,74.0,2008,Beijing,Swimming,Men's 200 metres Breaststroke,No Medal,Sandeep Sejwal,Speed & Power,200.8
+108502,Thirumal Valavan Selvaraj,M,29.0,172.0,64.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Thirumal Valavan Selvaraj,Team Sports,200.0
+108757,"Edward ""Eddie"" Sequeira",M,30.0,172.0,54.0,1972,Munich,Athletics,"Men's 5,000 metres",No Medal,Edward Sequeira,Endurance,197.2
+109114,Akram Shah,M,26.0,165.0,60.0,2004,Athina,Judo,Men's Extra-Lightweight,No Medal,Akram Shah,Combat,200.4
+109138,Muhammad Shahid,M,20.0,160.0,66.0,1980,Moskva,Hockey,Men's Hockey,Gold,Muhammad Shahid,Team Sports,198.0
+109138,Muhammad Shahid,M,24.0,160.0,66.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Muhammad Shahid,Team Sports,198.4
+109138,Muhammad Shahid,M,28.0,160.0,66.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Muhammad Shahid,Team Sports,198.8
+109216,Vandana Pandurang Shanbagh,F,22.0,163.0,50.0,1988,Seoul,Athletics,Women's 4 x 400 metres Relay,No Medal,Vandana Pandurang Shanbagh,Speed & Power,198.8
+109225,Jata Shankar,M,28.0,177.0,73.0,2000,Sydney,Athletics,Men's 4 x 400 metres Relay,No Medal,Jata Shankar,Speed & Power,200.0
+109295,Ankit Sharma,M,24.0,177.0,75.0,2016,Rio de Janeiro,Athletics,Men's Long Jump,No Medal,Ankit Sharma,Speed & Power,201.6
+109296,Jaman Lal Sharma,M,24.0,169.0,59.0,1960,Roma,Hockey,Men's Hockey,Silver,Jaman Lal Sharma,Team Sports,196.0
+109299,Sumangala Sharma,F,17.0,165.0,53.0,2004,Athina,Archery,Women's Individual,No Medal,Sumangala Sharma,Precision,200.4
+109299,Sumangala Sharma,F,17.0,165.0,53.0,2004,Athina,Archery,Women's Team,No Medal,Sumangala Sharma,Precision,200.4
+109300,Vineet Kumar Sharma,M,25.0,180.0,74.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Vineet Kumar Sharma,Team Sports,198.4
+109690,Sunder Shiam,M,30.0,170.0,61.0,1960,Roma,Wrestling,"Men's Featherweight, Freestyle",No Medal,Sunder Shiam,Combat,196.0
+109890,Suma Shirur (Betaraya Dixit-),F,30.0,160.0,56.0,2004,Athina,Shooting,"Women's Air Rifle, 10 metres",No Medal,Suma Shirur,Precision,200.4
+109963,"Javur Jagdishappa ""J. J."" Shobha",F,26.0,167.0,60.0,2004,Athina,Athletics,Women's Heptathlon,No Medal,Javur Jagdishappa Shobha,Technical / Mixed,200.4
+109963,"Javur Jagdishappa ""J. J."" Shobha",F,30.0,167.0,60.0,2008,Beijing,Athletics,Women's Heptathlon,No Medal,Javur Jagdishappa Shobha,Technical / Mixed,200.8
+110023,Malav Shroff,M,30.0,167.0,66.0,2004,Athina,Sailing,Mixed Skiff,No Medal,Malav Shroff,Technical / Mixed,200.4
+110113,Radhey Shyam Vijayrania,M,27.0,195.0,83.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Radhey Shyam Vijayrania,Team Sports,198.0
+110190,Avneet Kaur Sidhu,F,26.0,165.0,56.0,2008,Beijing,Shooting,"Women's Air Rifle, 10 metres",No Medal,Avneet Kaur Sidhu,Precision,200.8
+110190,Avneet Kaur Sidhu,F,26.0,165.0,56.0,2008,Beijing,Shooting,"Women's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Avneet Kaur Sidhu,Precision,200.8
+110191,Heena Sidhu,F,22.0,158.0,51.0,2012,London,Shooting,"Women's Air Pistol, 10 metres",No Medal,Heena Sidhu,Precision,201.2
+110191,Heena Sidhu,F,26.0,158.0,51.0,2016,Rio de Janeiro,Shooting,"Women's Air Pistol, 10 metres",No Medal,Heena Sidhu,Precision,201.6
+110191,Heena Sidhu,F,26.0,158.0,51.0,2016,Rio de Janeiro,Shooting,"Women's Sporting Pistol, 25 metres",No Medal,Heena Sidhu,Precision,201.6
+110401,Jyotirmoyee Sikdar,F,26.0,159.0,46.0,1996,Atlanta,Athletics,Women's 4 x 400 metres Relay,No Medal,Jyotirmoyee Sikdar,Speed & Power,199.6
+110956,Adam Antony Sinclair,M,20.0,170.0,65.0,2004,Athina,Hockey,Men's Hockey,No Medal,Adam Antony Sinclair,Team Sports,200.4
+110974,"Pusarla Venkata ""P. V."" Sindhu",F,21.0,179.0,65.0,2016,Rio de Janeiro,Badminton,Women's Singles,Silver,Pusarla Venkata Sindhu,Racket Sports,201.6
+110996,Ajay Raj Singh,M,22.0,177.0,64.0,2000,Sydney,Athletics,Men's 4 x 100 metres Relay,No Medal,Ajay Raj Singh,Speed & Power,200.0
+110997,Ajit Singh,M,23.0,185.0,73.0,1960,Roma,Athletics,Men's 20 kilometres Walk,No Medal,Ajit Singh,Endurance,196.0
+110997,Ajit Singh,M,23.0,185.0,73.0,1960,Roma,Athletics,Men's 50 kilometres Walk,No Medal,Ajit Singh,Endurance,196.0
+110999,Ajit Singh,M,24.0,172.0,60.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Ajit Singh,Team Sports,197.6
+111000,Ajitpal Singh Kular,M,21.0,178.0,70.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Ajitpal Singh Kular,Team Sports,196.8
+111000,Ajitpal Singh Kular,M,25.0,178.0,70.0,1972,Munich,Hockey,Men's Hockey,Bronze,Ajitpal Singh Kular,Team Sports,197.2
+111000,Ajitpal Singh Kular,M,29.0,178.0,70.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Ajitpal Singh Kular,Team Sports,197.6
+111001,Ajmer Singh,M,24.0,185.0,73.0,1964,Tokyo,Athletics,Men's 4 x 400 metres Relay,No Medal,Ajmer Singh,Speed & Power,196.4
+111002,Ajmer Singh Chopra,M,26.0,196.0,81.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Ajmer Singh Chopra,Team Sports,198.0
+111003,Akashdeep Singh,M,21.0,178.0,70.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Akashdeep Singh,Team Sports,201.6
+111006,Annu Raj Singh,F,28.0,164.0,53.0,2012,London,Shooting,"Women's Air Pistol, 10 metres",No Medal,Annu Raj Singh,Precision,201.2
+111006,Annu Raj Singh,F,28.0,164.0,53.0,2012,London,Shooting,"Women's Sporting Pistol, 25 metres",No Medal,Annu Raj Singh,Precision,201.2
+111007,Avtar Singh,M,24.0,180.0,90.0,2016,Rio de Janeiro,Judo,Men's Middleweight,No Medal,Avtar Singh,Combat,201.6
+111008,Bahadur Singh Chauhan,M,34.0,179.0,105.0,1980,Moskva,Athletics,Men's Shot Put,No Medal,Bahadur Singh Chauhan,Speed & Power,198.0
+111009,Bahadur Singh Sagoo,M,27.0,191.0,123.0,2000,Sydney,Athletics,Men's Shot Put,No Medal,Bahadur Singh Sagoo,Speed & Power,200.0
+111009,Bahadur Singh Sagoo,M,31.0,191.0,123.0,2004,Athina,Athletics,Men's Shot Put,No Medal,Bahadur Singh Sagoo,Speed & Power,200.4
+111012,Balbir Singh,M,26.0,168.0,65.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Balbir Singh,Team Sports,196.8
+111013,Balbir Singh,M,23.0,178.0,73.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Balbir Singh,Team Sports,196.8
+111014,Balbir Singh,M,23.0,173.0,70.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Balbir Singh,Team Sports,196.8
+111015,Baldev Singh,M,24.0,182.0,71.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Baldev Singh,Team Sports,197.6
+111017,Baldev Singh,M,29.0,176.0,72.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Baldev Singh,Team Sports,198.0
+111020,Balwinder Singh,M,22.0,175.0,64.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Balwinder Singh,Team Sports,198.8
+111022,Bhim Singh II,M,66.0,168.0,74.0,1976,Montreal,Shooting,Mixed Skeet,No Medal,Bhim Singh II,Precision,197.6
+111023,Bhim Singh,M,23.0,184.0,71.0,1968,Mexico City,Athletics,Men's High Jump,No Medal,Bhim Singh,Speed & Power,196.8
+111024,Bishambar Singh,M,24.0,156.0,57.0,1964,Tokyo,Wrestling,"Men's Bantamweight, Greco-Roman",No Medal,Bishambar Singh,Combat,196.4
+111024,Bishambar Singh,M,24.0,156.0,57.0,1964,Tokyo,Wrestling,"Men's Bantamweight, Freestyle",No Medal,Bishambar Singh,Combat,196.4
+111024,Bishambar Singh,M,28.0,156.0,57.0,1968,Mexico City,Wrestling,"Men's Bantamweight, Freestyle",No Medal,Bishambar Singh,Combat,196.8
+111026,Chain Singh,M,27.0,172.0,68.0,2016,Rio de Janeiro,Shooting,"Men's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Chain Singh,Precision,201.6
+111026,Chain Singh,M,27.0,172.0,68.0,2016,Rio de Janeiro,Shooting,"Men's Small-Bore Rifle, Prone, 50 metres",No Medal,Chain Singh,Precision,201.6
+111027,Chand Singh,M,27.0,175.0,73.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Chand Singh,Team Sports,197.6
+111028,Charanjit Singh,M,29.0,175.0,58.0,1960,Roma,Hockey,Men's Hockey,Silver,Charanjit Singh,Team Sports,196.0
+111028,Charanjit Singh,M,33.0,175.0,58.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Charanjit Singh,Team Sports,196.4
+111032,Darshan Singh Kular,M,26.0,170.0,72.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Darshan Singh Kular,Team Sports,196.4
+111033,Darya Singh,M,32.0,170.0,61.0,1980,Moskva,Equestrianism,"Mixed Three-Day Event, Individual",No Medal,Darya Singh,Technical / Mixed,198.0
+111033,Darya Singh,M,32.0,170.0,61.0,1980,Moskva,Equestrianism,"Mixed Three-Day Event, Team",No Medal,Darya Singh,Technical / Mixed,198.0
+111035,Devi Singh,M,32.0,175.0,68.0,1964,Tokyo,Shooting,Men's Trap,No Medal,Devi Singh,Precision,196.4
+111037,Devinder Singh,M,27.0,175.0,73.0,1980,Moskva,Hockey,Men's Hockey,Gold,Devinder Singh,Team Sports,198.0
+111039,Dharam Singh,M,26.0,170.0,65.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Dharam Singh,Team Sports,196.4
+111043,Gagan Ajit Singh,M,19.0,177.0,80.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Gagan Ajit Singh,Team Sports,200.0
+111043,Gagan Ajit Singh,M,23.0,177.0,80.0,2004,Athina,Hockey,Men's Hockey,No Medal,Gagan Ajit Singh,Team Sports,200.4
+111046,Gian Sehrawat Singh,M,25.0,168.0,62.0,1984,Los Angeles,Wrestling,"Men's Featherweight, Freestyle",No Medal,Gian Sehrawat Singh,Combat,198.4
+111047,"Joginder ""Gindi"" Singh",M,20.0,171.0,65.0,1960,Roma,Hockey,Men's Hockey,Silver,Joginder Singh,Team Sports,196.0
+111047,"Joginder ""Gindi"" Singh",M,24.0,171.0,65.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Joginder Singh,Team Sports,196.4
+111048,"Inder ""Gogi"" Singh",M,24.0,173.0,68.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Inder Singh,Team Sports,196.8
+111051,Gurbinder Singh,M,23.0,170.0,63.0,2000,Sydney,Wrestling,"Men's Lightweight, Greco-Roman",No Medal,Gurbinder Singh,Combat,200.0
+111052,Gurbux Singh,M,29.0,178.0,65.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Gurbux Singh,Team Sports,196.4
+111052,Gurbux Singh,M,33.0,178.0,65.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Gurbux Singh,Team Sports,196.8
+111053,Gurcharan Singh,M,19.0,191.0,81.0,1996,Atlanta,Boxing,Men's Light-Heavyweight,No Medal,Gurcharan Singh,Combat,199.6
+111053,Gurcharan Singh,M,23.0,191.0,81.0,2000,Sydney,Boxing,Men's Light-Heavyweight,No Medal,Gurcharan Singh,Combat,200.0
+111055,Gurmail Singh,M,20.0,170.0,62.0,1980,Moskva,Hockey,Men's Hockey,Gold,Gurmail Singh,Team Sports,198.0
+111056,Gurmeet Singh,M,27.0,172.0,60.0,2012,London,Athletics,Men's 20 kilometres Walk,No Medal,Gurmeet Singh,Endurance,201.2
+111056,Gurmeet Singh,M,31.0,172.0,60.0,2016,Rio de Janeiro,Athletics,Men's 20 kilometres Walk,No Medal,Gurmeet Singh,Endurance,201.6
+111059,Gurpreet Singh,M,28.0,176.0,81.0,2016,Rio de Janeiro,Shooting,"Men's Air Pistol, 10 metres",No Medal,Gurpreet Singh,Precision,201.6
+111059,Gurpreet Singh,M,28.0,176.0,81.0,2016,Rio de Janeiro,Shooting,"Men's Rapid-Fire Pistol, 25 metres",No Medal,Gurpreet Singh,Precision,201.6
+111060,Gurtej Singh,M,24.0,181.0,92.0,1984,Los Angeles,Athletics,Men's Javelin Throw,No Medal,Gurtej Singh,Speed & Power,198.4
+111061,Hanuman Singh Rathore,M,30.0,176.0,68.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Hanuman Singh Rathore,Team Sports,198.0
+111062,Harbhajan Singh,M,30.0,196.0,74.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Harbhajan Singh,Team Sports,198.0
+111063,Harbinder Singh Chimni,M,21.0,174.0,60.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Harbinder Singh Chimni,Team Sports,196.4
+111063,Harbinder Singh Chimni,M,25.0,174.0,60.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Harbinder Singh Chimni,Team Sports,196.8
+111063,Harbinder Singh Chimni,M,29.0,174.0,60.0,1972,Munich,Hockey,Men's Hockey,Bronze,Harbinder Singh Chimni,Team Sports,197.2
+111064,Harcharan Singh,M,22.0,175.0,68.0,1972,Munich,Hockey,Men's Hockey,Bronze,Harcharan Singh,Team Sports,197.2
+111064,Harcharan Singh,M,26.0,175.0,68.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Harcharan Singh,Team Sports,197.6
+111065,Hardeep Singh,M,25.0,183.0,98.0,2016,Rio de Janeiro,Wrestling,"Men's Heavyweight, Greco-Roman",No Medal,Hardeep Singh,Combat,201.6
+111066,Hardeep Singh Grewal,M,23.0,168.0,65.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Hardeep Singh Grewal,Team Sports,198.4
+111068,Harmanpreet Singh,M,20.0,177.0,70.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Harmanpreet Singh,Team Sports,201.6
+111069,Harmik Singh,M,21.0,174.0,70.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Harmik Singh,Team Sports,196.8
+111069,Harmik Singh,M,25.0,174.0,70.0,1972,Munich,Hockey,Men's Hockey,Bronze,Harmik Singh,Team Sports,197.2
+111070,Harpal Singh,M,20.0,170.0,68.0,2004,Athina,Hockey,Men's Hockey,No Medal,Harpal Singh,Team Sports,200.4
+111072,Inderpal Singh,M,25.0,195.0,85.0,2000,Sydney,Rowing,Men's Coxless Pairs,No Medal,Inderpal Singh,Endurance,200.0
+111073,Jagbir Singh,M,23.0,180.0,71.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Jagbir Singh,Team Sports,198.8
+111073,Jagbir Singh,M,27.0,180.0,71.0,1992,Barcelona,Hockey,Men's Hockey,No Medal,Jagbir Singh,Team Sports,199.2
+111075,Jagjit Singh Kular,M,20.0,170.0,58.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Jagjit Singh Kular,Team Sports,196.4
+111075,Jagjit Singh Kular,M,24.0,170.0,58.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Jagjit Singh Kular,Team Sports,196.8
+111076,Jagmal Singh Ragho,M,37.0,173.0,53.0,1960,Roma,Athletics,Men's Marathon,No Medal,Jagmal Singh Ragho,Endurance,196.0
+111077,Jagmander Balyan Singh,M,24.0,165.0,68.0,1980,Moskva,Wrestling,"Men's Lightweight, Freestyle",No Medal,Jagmander Balyan Singh,Combat,198.0
+111077,Jagmander Balyan Singh,M,28.0,165.0,68.0,1984,Los Angeles,Wrestling,"Men's Lightweight, Freestyle",No Medal,Jagmander Balyan Singh,Combat,198.4
+111078,Jagmohan Nat Singh,M,28.0,183.0,71.0,1960,Roma,Athletics,Men's 110 metres Hurdles,No Medal,Jagmohan Nat Singh,Speed & Power,196.0
+111080,Jagrup Singh,M,29.0,171.0,68.0,1972,Munich,Wrestling,"Men's Lightweight, Freestyle",No Medal,Jagrup Singh,Combat,197.2
+111083,Jaswant Singh,M,29.0,185.0,77.0,1960,Roma,Hockey,Men's Hockey,Silver,Jaswant Singh,Team Sports,196.0
+111085,Jit Singh,M,27.0,175.0,87.0,1964,Tokyo,Wrestling,"Men's Middleweight, Freestyle",No Medal,Jit Singh,Combat,196.4
+111086,Jorawar Singh,M,29.0,180.0,68.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Jorawar Singh,Team Sports,198.0
+111087,Jugraj Singh Mann,M,25.0,180.0,98.0,1972,Munich,Athletics,Men's Shot Put,No Medal,Jugraj Singh Mann,Speed & Power,197.2
+111088,Kaliq Singh,M,33.0,188.0,91.0,1984,Los Angeles,Boxing,Men's Heavyweight,No Medal,Kaliq Singh,Combat,198.4
+111089,Karni Singh Bahadur,M,36.0,174.0,99.0,1960,Roma,Shooting,Men's Trap,No Medal,Karni Singh Bahadur,Precision,196.0
+111089,Karni Singh Bahadur,M,40.0,174.0,99.0,1964,Tokyo,Shooting,Men's Trap,No Medal,Karni Singh Bahadur,Precision,196.4
+111089,Karni Singh Bahadur,M,44.0,174.0,99.0,1968,Mexico City,Shooting,Mixed Trap,No Medal,Karni Singh Bahadur,Precision,196.8
+111089,Karni Singh Bahadur,M,44.0,174.0,99.0,1968,Mexico City,Shooting,Mixed Skeet,No Medal,Karni Singh Bahadur,Precision,196.8
+111089,Karni Singh Bahadur,M,48.0,174.0,99.0,1972,Munich,Shooting,Mixed Trap,No Medal,Karni Singh Bahadur,Precision,197.2
+111089,Karni Singh Bahadur,M,48.0,174.0,99.0,1972,Munich,Shooting,Mixed Skeet,No Medal,Karni Singh Bahadur,Precision,197.2
+111089,Karni Singh Bahadur,M,56.0,174.0,99.0,1980,Moskva,Shooting,Mixed Trap,No Medal,Karni Singh Bahadur,Precision,198.0
+111090,Kothajit Singh Khadangbam,M,23.0,170.0,63.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Kothajit Singh Khadangbam,Team Sports,201.6
+111091,Kuldeep Singh,M,22.0,162.0,52.0,1988,Seoul,Wrestling,"Men's Flyweight, Freestyle",No Medal,Kuldeep Singh,Combat,198.8
+111092,Kulwant Singh,M,23.0,172.0,70.0,1972,Munich,Hockey,Men's Hockey,Bronze,Kulwant Singh,Team Sports,197.2
+111094,Labh Singh,M,25.0,173.0,54.0,1964,Tokyo,Athletics,Men's Triple Jump,No Medal,Labh Singh,Speed & Power,196.4
+111095,Lakha Singh,M,31.0,180.0,90.0,1996,Atlanta,Boxing,Men's Heavyweight,No Medal,Lakha Singh,Combat,199.6
+111096,Madho Singh,M,31.0,170.0,78.0,1960,Roma,Wrestling,"Men's Middleweight, Freestyle",No Medal,Madho Singh,Combat,196.0
+111096,Madho Singh,M,35.0,170.0,78.0,1964,Tokyo,Wrestling,"Men's Welterweight, Freestyle",No Medal,Madho Singh,Combat,196.4
+111097,Mahabir Singh,M,15.0,165.0,52.0,1980,Moskva,Wrestling,"Men's Light-Flyweight, Freestyle",No Medal,Mahabir Singh,Combat,198.0
+111097,Mahabir Singh,M,19.0,165.0,52.0,1984,Los Angeles,Wrestling,"Men's Flyweight, Freestyle",No Medal,Mahabir Singh,Combat,198.4
+111099,Makhan Singh,M,25.0,167.0,67.0,1964,Tokyo,Athletics,Men's 4 x 100 metres Relay,No Medal,Makhan Singh,Speed & Power,196.4
+111099,Makhan Singh,M,25.0,167.0,67.0,1964,Tokyo,Athletics,Men's 4 x 400 metres Relay,No Medal,Makhan Singh,Speed & Power,196.4
+111100,Malwa Singh,M,18.0,137.0,52.0,1964,Tokyo,Wrestling,"Men's Flyweight, Greco-Roman",No Medal,Malwa Singh,Combat,196.4
+111100,Malwa Singh,M,18.0,137.0,52.0,1964,Tokyo,Wrestling,"Men's Flyweight, Freestyle",No Medal,Malwa Singh,Combat,196.4
+111101,Mangal Singh Champia,M,24.0,167.0,82.0,2008,Beijing,Archery,Men's Individual,No Medal,Mangal Singh Champia,Precision,200.8
+111102,Manish Singh Rawat,M,25.0,174.0,65.0,2016,Rio de Janeiro,Athletics,Men's 20 kilometres Walk,No Medal,Manish Singh Rawat,Endurance,201.6
+111103,Manjit Singh,M,19.0,180.0,68.0,2008,Beijing,Rowing,Men's Lightweight Double Sculls,No Medal,Manjit Singh,Endurance,200.8
+111103,Manjit Singh,M,23.0,180.0,68.0,2012,London,Rowing,Men's Lightweight Double Sculls,No Medal,Manjit Singh,Endurance,201.2
+111104,Manpreet Singh,M,20.0,172.0,69.0,2012,London,Hockey,Men's Hockey,No Medal,Manpreet Singh,Team Sports,201.2
+111104,Manpreet Singh,M,24.0,172.0,69.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Manpreet Singh,Team Sports,201.6
+111105,Mansher Singh,M,18.0,173.0,76.0,1984,Los Angeles,Shooting,Mixed Trap,No Medal,Mansher Singh,Precision,198.4
+111105,Mansher Singh,M,30.0,173.0,76.0,1996,Atlanta,Shooting,Men's Trap,No Medal,Mansher Singh,Precision,199.6
+111105,Mansher Singh,M,38.0,173.0,76.0,2004,Athina,Shooting,Men's Trap,No Medal,Mansher Singh,Precision,200.4
+111105,Mansher Singh,M,42.0,173.0,76.0,2008,Beijing,Shooting,Men's Trap,No Medal,Mansher Singh,Precision,200.8
+111108,Milkha Singh,M,21.0,172.0,66.0,1956,Melbourne,Athletics,Men's 200 metres,No Medal,Milkha Singh,Speed & Power,195.6
+111108,Milkha Singh,M,21.0,172.0,66.0,1956,Melbourne,Athletics,Men's 400 metres,No Medal,Milkha Singh,Speed & Power,195.6
+111108,Milkha Singh,M,24.0,172.0,66.0,1960,Roma,Athletics,Men's 400 metres,No Medal,Milkha Singh,Speed & Power,196.0
+111108,Milkha Singh,M,28.0,172.0,66.0,1964,Tokyo,Athletics,Men's 4 x 400 metres Relay,No Medal,Milkha Singh,Speed & Power,196.4
+111109,Mohinder Singh,M,23.0,171.0,62.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Mohinder Singh,Team Sports,197.6
+111111,Mohinder Pal Singh,M,25.0,178.0,78.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Mohinder Pal Singh,Team Sports,198.8
+111112,Mukhbain Singh,M,27.0,173.0,70.0,1972,Munich,Hockey,Men's Hockey,Bronze,Mukhbain Singh,Team Sports,197.2
+111113,Mukhtiar Singh,M,25.0,171.0,82.0,1968,Mexico City,Wrestling,"Men's Welterweight, Freestyle",No Medal,Mukhtiar Singh,Combat,196.8
+111113,Mukhtiar Singh,M,29.0,171.0,82.0,1972,Munich,Wrestling,"Men's Welterweight, Freestyle",No Medal,Mukhtiar Singh,Combat,197.2
+111115,Neel Kamal Singh,M,21.0,171.0,61.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Neel Kamal Singh,Team Sports,198.4
+111117,Paramjit Singh,M,27.0,187.0,70.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Paramjit Singh,Team Sports,198.0
+111118,Paramjit Singh,M,29.0,187.0,73.0,2000,Sydney,Athletics,Men's 400 metres,No Medal,Paramjit Singh,Speed & Power,200.0
+111118,Paramjit Singh,M,29.0,187.0,73.0,2000,Sydney,Athletics,Men's 4 x 400 metres Relay,No Medal,Paramjit Singh,Speed & Power,200.0
+111119,Pargat Singh Powar,M,23.0,170.0,68.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Pargat Singh Powar,Team Sports,198.8
+111119,Pargat Singh Powar,M,27.0,170.0,68.0,1992,Barcelona,Hockey,Men's Hockey,No Medal,Pargat Singh Powar,Team Sports,199.2
+111119,Pargat Singh Powar,M,31.0,170.0,68.0,1996,Atlanta,Hockey,Men's Hockey,No Medal,Pargat Singh Powar,Team Sports,199.6
+111120,Prabhjot Singh,M,23.0,177.0,70.0,2004,Athina,Hockey,Men's Hockey,No Medal,Prabhjot Singh,Team Sports,200.4
+111121,Pramdiph Singh,M,27.0,186.0,73.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Pramdiph Singh,Team Sports,198.0
+111123,Prithipal Singh,M,28.0,175.0,71.0,1960,Roma,Hockey,Men's Hockey,Silver,Prithipal Singh,Team Sports,196.0
+111123,Prithipal Singh,M,32.0,175.0,71.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Prithipal Singh,Team Sports,196.4
+111123,Prithipal Singh,M,36.0,175.0,71.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Prithipal Singh,Team Sports,196.8
+111125,Rajinder Singh,M,22.0,175.0,67.0,1980,Moskva,Hockey,Men's Hockey,Gold,Rajinder Singh,Team Sports,198.0
+111126,Rajinder Singh,M,25.0,175.0,74.0,1980,Moskva,Wrestling,"Men's Welterweight, Freestyle",No Medal,Rajinder Singh,Combat,198.0
+111126,Rajinder Singh,M,29.0,175.0,74.0,1984,Los Angeles,Wrestling,"Men's Welterweight, Freestyle",No Medal,Rajinder Singh,Combat,198.4
+111128,Ramandeep Singh,M,23.0,179.0,70.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Ramandeep Singh,Team Sports,201.6
+111129,Randhir Singh Ji,M,21.0,178.0,68.0,1968,Mexico City,Shooting,Mixed Trap,No Medal,Randhir Singh Ji,Precision,196.8
+111129,Randhir Singh Ji,M,25.0,178.0,68.0,1972,Munich,Shooting,Mixed Trap,No Medal,Randhir Singh Ji,Precision,197.2
+111129,Randhir Singh Ji,M,29.0,178.0,68.0,1976,Montreal,Shooting,Mixed Trap,No Medal,Randhir Singh Ji,Precision,197.6
+111129,Randhir Singh Ji,M,33.0,178.0,68.0,1980,Moskva,Shooting,Mixed Trap,No Medal,Randhir Singh Ji,Precision,198.0
+111129,Randhir Singh Ji,M,37.0,178.0,68.0,1984,Los Angeles,Shooting,Mixed Trap,No Medal,Randhir Singh Ji,Precision,198.4
+111130,Ranjit Singh,M,22.0,168.0,63.0,1980,Moskva,Athletics,Men's 20 kilometres Walk,No Medal,Ranjit Singh,Endurance,198.0
+111131,Ravinder Pal Singh,M,19.0,168.0,63.0,1980,Moskva,Hockey,Men's Hockey,Gold,Ravinder Pal Singh,Team Sports,198.0
+111131,Ravinder Pal Singh,M,23.0,168.0,63.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Ravinder Pal Singh,Team Sports,198.4
+111132,Rohtas Dahiya Singh,M,24.0,168.0,57.0,1984,Los Angeles,Wrestling,"Men's Bantamweight, Freestyle",No Medal,Rohtas Dahiya Singh,Combat,198.4
+111134,Rupinder Pal Singh,M,25.0,193.0,93.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Rupinder Pal Singh,Team Sports,201.6
+111136,Sajan Singh,M,28.0,180.0,86.0,1960,Roma,Wrestling,"Men's Light-Heavyweight, Freestyle",No Medal,Sajan Singh,Combat,196.0
+111137,Sandeep Singh,M,18.0,185.0,78.0,2004,Athina,Hockey,Men's Hockey,No Medal,Sandeep Singh,Team Sports,200.4
+111137,Sandeep Singh,M,26.0,185.0,78.0,2012,London,Hockey,Men's Hockey,No Medal,Sandeep Singh,Team Sports,201.2
+111138,Sanjeev Kumar Singh,M,22.0,174.0,59.0,1988,Seoul,Archery,Men's Individual,No Medal,Sanjeev Kumar Singh,Precision,198.8
+111138,Sanjeev Kumar Singh,M,22.0,174.0,59.0,1988,Seoul,Archery,Men's Team,No Medal,Sanjeev Kumar Singh,Precision,198.8
+111139,Sardar Singh,M,26.0,176.0,80.0,2012,London,Hockey,Men's Hockey,No Medal,Sardar Singh,Team Sports,201.2
+111139,Sardar Singh,M,30.0,176.0,80.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Sardar Singh,Team Sports,201.6
+111140,Satpal Singh,M,17.0,182.0,81.0,1972,Munich,Wrestling,"Men's Featherweight, Freestyle",No Medal,Satpal Singh,Combat,197.2
+111140,Satpal Singh,M,25.0,182.0,81.0,1980,Moskva,Wrestling,"Men's Heavyweight, Freestyle",No Medal,Satpal Singh,Combat,198.0
+111142,Sawarn Singh,M,22.0,188.0,80.0,2012,London,Rowing,Men's Single Sculls,No Medal,Sawarn Singh,Endurance,201.2
+111143,Shakti Singh,M,34.0,187.0,125.0,1996,Atlanta,Athletics,Men's Discus Throw,No Medal,Shakti Singh,Speed & Power,199.6
+111143,Shakti Singh,M,38.0,187.0,125.0,2000,Sydney,Athletics,Men's Shot Put,No Medal,Shakti Singh,Speed & Power,200.0
+111145,Shivnath Singh,M,30.0,168.0,57.0,1976,Montreal,Athletics,Men's Marathon,No Medal,Shivnath Singh,Endurance,197.6
+111145,Shivnath Singh,M,34.0,168.0,57.0,1980,Moskva,Athletics,Men's Marathon,No Medal,Shivnath Singh,Endurance,198.0
+111147,Sohan Singh,M,28.0,164.0,61.0,1964,Tokyo,Diving,Men's Platform,No Medal,Sohan Singh,Technical / Mixed,196.4
+111149,Sri Ram Singh Shekhawat,M,22.0,178.0,63.0,1972,Munich,Athletics,Men's 800 metres,No Medal,Sri Ram Singh Shekhawat,Endurance,197.2
+111149,Sri Ram Singh Shekhawat,M,26.0,178.0,63.0,1976,Montreal,Athletics,Men's 800 metres,No Medal,Sri Ram Singh Shekhawat,Endurance,197.6
+111149,Sri Ram Singh Shekhawat,M,30.0,178.0,63.0,1980,Moskva,Athletics,Men's 800 metres,No Medal,Sri Ram Singh Shekhawat,Endurance,198.0
+111151,Sudha Singh,F,26.0,158.0,45.0,2012,London,Athletics,"Women's 3,000 metres Steeplechase",No Medal,Sudha Singh,Endurance,201.2
+111151,Sudha Singh,F,30.0,158.0,45.0,2016,Rio de Janeiro,Athletics,"Women's 3,000 metres Steeplechase",No Medal,Sudha Singh,Endurance,201.6
+111154,Surendra Kumar Singh,M,29.0,162.0,54.0,2008,Beijing,Athletics,"Men's 10,000 metres",No Medal,Surendra Kumar Singh,Endurance,200.8
+111155,Surjit Singh Randhawa,M,24.0,180.0,76.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Surjit Singh Randhawa,Team Sports,197.6
+111156,Tarsem Singh Kular,M,21.0,173.0,66.0,1968,Mexico City,Hockey,Men's Hockey,Bronze,Tarsem Singh Kular,Team Sports,196.8
+111157,Thoiba Singh,M,32.0,164.0,63.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Thoiba Singh,Team Sports,198.8
+111159,Udham Singh Kular,M,23.0,168.0,58.0,1952,Helsinki,Hockey,Men's Hockey,Gold,Udham Singh Kular,Team Sports,195.2
+111159,Udham Singh Kular,M,28.0,168.0,58.0,1956,Melbourne,Hockey,Men's Hockey,Gold,Udham Singh Kular,Team Sports,195.6
+111159,Udham Singh Kular,M,32.0,168.0,58.0,1960,Roma,Hockey,Men's Hockey,Silver,Udham Singh Kular,Team Sports,196.0
+111159,Udham Singh Kular,M,36.0,168.0,58.0,1964,Tokyo,Hockey,Men's Hockey,Gold,Udham Singh Kular,Team Sports,196.4
+111160,Varinder Singh,M,25.0,160.0,58.0,1972,Munich,Hockey,Men's Hockey,Bronze,Varinder Singh,Team Sports,197.2
+111160,Varinder Singh,M,29.0,160.0,58.0,1976,Montreal,Hockey,Men's Hockey,No Medal,Varinder Singh,Team Sports,197.6
+111161,Vijender Kumar Singh,M,18.0,182.0,75.0,2004,Athina,Boxing,Men's Light-Welterweight,No Medal,Vijender Kumar Singh,Combat,200.4
+111161,Vijender Kumar Singh,M,22.0,182.0,75.0,2008,Beijing,Boxing,Men's Middleweight,Bronze,Vijender Kumar Singh,Combat,200.8
+111161,Vijender Kumar Singh,M,26.0,182.0,75.0,2012,London,Boxing,Men's Middleweight,No Medal,Vijender Kumar Singh,Combat,201.2
+111163,Virsa Singh,M,27.0,179.0,72.0,1960,Roma,Athletics,Men's Long Jump,No Medal,Virsa Singh,Speed & Power,196.0
+111164,Vivek Singh,M,21.0,176.0,59.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Vivek Singh,Team Sports,198.8
+111165,Zora Singh,M,31.0,180.0,68.0,1960,Roma,Athletics,Men's 20 kilometres Walk,No Medal,Zora Singh,Endurance,196.0
+111165,Zora Singh,M,31.0,180.0,68.0,1960,Roma,Athletics,Men's 50 kilometres Walk,No Medal,Zora Singh,Endurance,196.0
+111173,Raghbir Singh Bhola,M,29.0,183.0,67.0,1956,Melbourne,Hockey,Men's Hockey,Gold,Raghbir Singh Bhola,Team Sports,195.6
+111173,Raghbir Singh Bhola,M,33.0,183.0,67.0,1960,Roma,Hockey,Men's Hockey,Silver,Raghbir Singh Bhola,Team Sports,196.0
+111176,Amar Singh Billing,M,20.0,175.0,62.0,1964,Tokyo,Cycling,Men's 100 kilometres Team Time Trial,No Medal,Amar Singh Billing,Endurance,196.4
+111176,Amar Singh Billing,M,20.0,175.0,62.0,1964,Tokyo,Cycling,Men's Sprint,No Medal,Amar Singh Billing,Speed & Power,196.4
+111176,Amar Singh Billing,M,20.0,175.0,62.0,1964,Tokyo,Cycling,"Men's Team Pursuit, 4,000 metres",No Medal,Amar Singh Billing,Endurance,196.4
+111180,Vijay Singh Chauhan,M,23.0,183.0,78.0,1972,Munich,Athletics,Men's Decathlon,No Medal,Vijay Singh Chauhan,Technical / Mixed,197.2
+111181,Palwinder Singh Cheema,M,21.0,195.0,120.0,2004,Athina,Wrestling,"Men's Super-Heavyweight, Freestyle",No Medal,Palwinder Singh Cheema,Combat,200.4
+111187,Baljit Singh Dhillon,M,23.0,175.0,72.0,1996,Atlanta,Hockey,Men's Hockey,No Medal,Baljit Singh Dhillon,Team Sports,199.6
+111187,Baljit Singh Dhillon,M,27.0,175.0,72.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Baljit Singh Dhillon,Team Sports,200.0
+111187,Baljit Singh Dhillon,M,31.0,175.0,72.0,2004,Athina,Hockey,Men's Hockey,No Medal,Baljit Singh Dhillon,Team Sports,200.4
+111189,Neelam Jaswant Singh Dogra,F,29.0,167.0,85.0,2000,Sydney,Athletics,Women's Discus Throw,No Medal,Neelam Jaswant Singh Dogra,Speed & Power,200.0
+111189,Neelam Jaswant Singh Dogra,F,33.0,167.0,85.0,2004,Athina,Athletics,Women's Discus Throw,No Medal,Neelam Jaswant Singh Dogra,Speed & Power,200.4
+111196,Mohinder Singh Gill,M,25.0,182.0,75.0,1972,Munich,Athletics,Men's Long Jump,No Medal,Mohinder Singh Gill,Speed & Power,197.2
+111196,Mohinder Singh Gill,M,25.0,182.0,75.0,1972,Munich,Athletics,Men's Triple Jump,No Medal,Mohinder Singh Gill,Speed & Power,197.2
+111198,Sukhbir Singh Gill,M,24.0,182.0,74.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Sukhbir Singh Gill,Team Sports,200.0
+111202,Iqbaljit Singh Grewal,M,24.0,174.0,77.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Iqbaljit Singh Grewal,Team Sports,198.4
+111203,Ramandeep Singh Grewal,M,24.0,182.0,76.0,1996,Atlanta,Hockey,Men's Hockey,No Medal,Ramandeep Singh Grewal,Team Sports,199.6
+111203,Ramandeep Singh Grewal,M,29.0,182.0,76.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Ramandeep Singh Grewal,Team Sports,200.0
+111204,Sandhu Singh Gurbir,M,25.0,176.0,82.0,1976,Montreal,Shooting,Mixed Skeet,No Medal,Sandhu Singh Gurbir,Precision,197.6
+111207,Dhillon Singh Jarnail,M,24.0,178.0,67.0,1960,Roma,Football,Men's Football,No Medal,Dhillon Singh Jarnail,Team Sports,196.0
+111210,Om Prakash Singh Karhana,M,25.0,196.0,125.0,2012,London,Athletics,Men's Shot Put,No Medal,Om Prakash Singh Karhana,Speed & Power,201.2
+111211,Baljit Singh Kharab,M,28.0,173.0,63.0,1984,Los Angeles,Shooting,"Men's Free Pistol, 50 metres",No Medal,Baljit Singh Kharab,Precision,198.4
+111234,Gurbachan Singh Randhawa,M,21.0,183.0,71.0,1960,Roma,Athletics,Men's High Jump,No Medal,Gurbachan Singh Randhawa,Speed & Power,196.0
+111234,Gurbachan Singh Randhawa,M,21.0,183.0,71.0,1960,Roma,Athletics,Men's Decathlon,No Medal,Gurbachan Singh Randhawa,Technical / Mixed,196.0
+111234,Gurbachan Singh Randhawa,M,25.0,183.0,71.0,1964,Tokyo,Athletics,Men's 110 metres Hurdles,No Medal,Gurbachan Singh Randhawa,Speed & Power,196.4
+111237,Nitendra Singh Rawat,M,29.0,172.0,58.0,2016,Rio de Janeiro,Athletics,Men's Marathon,No Medal,Nitendra Singh Rawat,Endurance,201.6
+111238,Rajinder Singh Rawat,M,24.0,165.0,59.0,1988,Seoul,Hockey,Men's Hockey,No Medal,Rajinder Singh Rawat,Team Sports,198.8
+111241,Baljit Singh Saini,M,19.0,176.0,60.0,1996,Atlanta,Hockey,Men's Hockey,No Medal,Baljit Singh Saini,Team Sports,199.6
+111241,Baljit Singh Saini,M,24.0,176.0,60.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Baljit Singh Saini,Team Sports,200.0
+111244,Harisimran Singh Sandhu,M,34.0,180.0,83.0,1984,Los Angeles,Shooting,Mixed Skeet,No Medal,Harisimran Singh Sandhu,Precision,198.4
+111245,Manavjit Singh Sandhu,M,27.0,192.0,90.0,2004,Athina,Shooting,Men's Trap,No Medal,Manavjit Singh Sandhu,Precision,200.4
+111245,Manavjit Singh Sandhu,M,31.0,192.0,90.0,2008,Beijing,Shooting,Men's Trap,No Medal,Manavjit Singh Sandhu,Precision,200.8
+111245,Manavjit Singh Sandhu,M,35.0,192.0,90.0,2012,London,Shooting,Men's Trap,No Medal,Manavjit Singh Sandhu,Precision,201.2
+111245,Manavjit Singh Sandhu,M,39.0,192.0,90.0,2016,Rio de Janeiro,Shooting,Men's Trap,No Medal,Manavjit Singh Sandhu,Precision,201.6
+111248,Tarlok Singh Sandhu,M,25.0,193.0,73.0,1980,Moskva,Basketball,Men's Basketball,No Medal,Tarlok Singh Sandhu,Team Sports,198.0
+111257,Surinder Singh Sodhi Shokar,M,23.0,178.0,83.0,1980,Moskva,Hockey,Men's Hockey,Gold,Surinder Singh Sodhi Shokar,Team Sports,198.0
+111263,Birender Singh Thapa,M,27.0,159.0,48.0,1980,Moskva,Boxing,Men's Light-Flyweight,No Medal,Birender Singh Thapa,Combat,198.0
+111269,Sushmitha Singha Roy,F,24.0,175.0,66.0,2008,Beijing,Athletics,Women's Heptathlon,No Medal,Sushmitha Singha Roy,Technical / Mixed,200.8
+111467,Sathish Kumar Sivalingam,M,24.0,175.0,77.0,2016,Rio de Janeiro,Weightlifting,Men's Middleweight,No Medal,Sathish Kumar Sivalingam,Speed & Power,201.6
+112724,Ronjan Sodhi,M,32.0,175.0,87.0,2012,London,Shooting,Men's Double Trap,No Medal,Ronjan Sodhi,Precision,201.2
+113017,Chitra Kulaghummuriyil Soman,F,21.0,172.0,58.0,2004,Athina,Athletics,Women's 4 x 400 metres Relay,No Medal,Chitra Kulaghummuriyil Soman,Speed & Power,200.4
+113017,Chitra Kulaghummuriyil Soman,F,25.0,172.0,58.0,2008,Beijing,Athletics,Women's 4 x 400 metres Relay,No Medal,Chitra Kulaghummuriyil Soman,Speed & Power,200.8
+114038,Preeja Sreedharan,F,26.0,152.0,47.0,2008,Beijing,Athletics,"Women's 10,000 metres",No Medal,Preeja Sreedharan,Endurance,200.8
+114048,Anup Sridhar,M,25.0,189.0,83.0,2008,Beijing,Badminton,Men's Singles,No Medal,Anup Sridhar,Racket Sports,200.8
+116132,Perumal Subramanian,M,24.0,168.0,69.0,1980,Moskva,Athletics,Men's 200 metres,No Medal,Perumal Subramanian,Speed & Power,198.0
+116133,Raman Subramanyan,M,31.0,188.0,72.0,2000,Sydney,Table Tennis,Men's Doubles,No Medal,Raman Subramanyan,Racket Sports,200.0
+116387,Anwer Sultan,M,38.0,178.0,77.0,2000,Sydney,Shooting,Men's Trap,No Medal,Anwer Sultan,Precision,200.0
+116414,Adille Sumariwalla,M,21.0,168.0,67.0,1980,Moskva,Athletics,Men's 100 metres,No Medal,Adille Sumariwalla,Speed & Power,198.0
+116554,Simon Swamidas Sunder Raj,M,22.0,173.0,63.0,1960,Roma,Football,Men's Football,No Medal,Simon Swamidas Sunder Raj,Team Sports,196.0
+116634,Soubam Suresh Singh,M,20.0,163.0,48.0,2000,Sydney,Boxing,Men's Light-Flyweight,No Medal,Soubam Suresh Singh,Combat,200.0
+117056,Arul C. S. Swami,M,22.0,165.0,54.0,1936,Berlin,Athletics,Men's Marathon,No Medal,Arul C. S. Swami,Endurance,193.6
+117175,Chekrovolu Swuro,F,29.0,171.0,73.0,2012,London,Archery,Women's Individual,No Medal,Chekrovolu Swuro,Precision,201.2
+117175,Chekrovolu Swuro,F,29.0,171.0,73.0,2012,London,Archery,Women's Team,No Medal,Chekrovolu Swuro,Precision,201.2
+117199,Jalal-ud-Din Syed Rizvi,M,26.0,168.0,65.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Jalal-ud-Din Syed Rizvi,Team Sports,198.4
+117232,Dung Dung Sylvanus,M,31.0,160.0,62.0,1980,Moskva,Hockey,Men's Hockey,Gold,Dung Dung Sylvanus,Team Sports,198.0
+118055,Bajrang Lal Takhar,M,27.0,185.0,79.0,2008,Beijing,Rowing,Men's Single Sculls,No Medal,Bajrang Lal Takhar,Endurance,200.8
+118159,Jayanta Talukdar,M,26.0,178.0,85.0,2012,London,Archery,Men's Individual,No Medal,Jayanta Talukdar,Precision,201.2
+118159,Jayanta Talukdar,M,26.0,178.0,85.0,2012,London,Archery,Men's Team,No Medal,Jayanta Talukdar,Precision,201.2
+118400,Shikha Tandon,F,19.0,166.0,60.0,2004,Athina,Swimming,Women's 50 metres Freestyle,No Medal,Shikha Tandon,Speed & Power,200.4
+118400,Shikha Tandon,F,19.0,166.0,60.0,2004,Athina,Swimming,Women's 100 metres Freestyle,No Medal,Shikha Tandon,Speed & Power,200.4
+118584,Farokh Tarapore,M,23.0,179.0,60.0,1984,Los Angeles,Sailing,Mixed Two Person Dinghy,No Medal,Farokh Tarapore,Technical / Mixed,198.4
+118584,Farokh Tarapore,M,28.0,179.0,60.0,1988,Seoul,Sailing,Men's Two Person Dinghy,No Medal,Farokh Tarapore,Technical / Mixed,198.8
+118584,Farokh Tarapore,M,31.0,179.0,60.0,1992,Barcelona,Sailing,Men's Two Person Dinghy,No Medal,Farokh Tarapore,Technical / Mixed,199.2
+119430,Divya Tewar,F,24.0,157.0,78.0,2008,Beijing,Judo,Women's Half-Heavyweight,No Medal,Divya Tewar,Combat,200.8
+119470,Deepika Thakur,F,29.0,159.0,61.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Deepika Thakur,Team Sports,201.6
+119474,Deepak Thakur Sonkhla,M,19.0,174.0,72.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Deepak Thakur Sonkhla,Team Sports,200.0
+119474,Deepak Thakur Sonkhla,M,23.0,174.0,72.0,2004,Athina,Hockey,Men's Hockey,No Medal,Deepak Thakur Sonkhla,Team Sports,200.4
+119494,Peter Ramaswamy Thangaraj,M,20.0,190.0,85.0,1956,Melbourne,Football,Men's Football,No Medal,Peter Ramaswamy Thangaraj,Team Sports,195.6
+119494,Peter Ramaswamy Thangaraj,M,24.0,190.0,85.0,1960,Roma,Football,Men's Football,No Medal,Peter Ramaswamy Thangaraj,Team Sports,196.0
+119509,Debendra (-Dibend) Thapa,M,19.0,162.0,48.0,1996,Atlanta,Boxing,Men's Light-Flyweight,No Medal,Debendra Thapa,Combat,199.6
+119515,Shiva Thapa,M,18.0,169.0,56.0,2012,London,Boxing,Men's Bantamweight,No Medal,Shiva Thapa,Combat,201.2
+119515,Shiva Thapa,M,22.0,169.0,56.0,2016,Rio de Janeiro,Boxing,Men's Bantamweight,No Medal,Shiva Thapa,Combat,201.6
+119706,Chandanda Nikkin Thimmaiah,M,25.0,171.0,61.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Chandanda Nikkin Thimmaiah,Team Sports,201.6
+119735,Irfan Kolothum Thodi,M,22.0,170.0,79.0,2012,London,Athletics,Men's 20 kilometres Walk,No Medal,Irfan Kolothum Thodi,Endurance,201.2
+119743,Anuradha Devi Thokchom,F,27.0,162.0,54.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Anuradha Devi Thokchom,Team Sports,201.6
+119864,Prarthana Gulabrao Thombare,F,22.0,165.0,58.0,2016,Rio de Janeiro,Tennis,Women's Doubles,No Medal,Prarthana Gulabrao Thombare,Racket Sports,201.6
+120484,Dilip Kumar Tirkey,M,18.0,170.0,70.0,1996,Atlanta,Hockey,Men's Hockey,No Medal,Dilip Kumar Tirkey,Team Sports,199.6
+120484,Dilip Kumar Tirkey,M,22.0,170.0,70.0,2000,Sydney,Hockey,Men's Hockey,No Medal,Dilip Kumar Tirkey,Team Sports,200.0
+120484,Dilip Kumar Tirkey,M,26.0,170.0,70.0,2004,Athina,Hockey,Men's Hockey,No Medal,Dilip Kumar Tirkey,Team Sports,200.4
+120485,"Ignacious ""Ignace"" Tirkey",M,23.0,172.0,62.0,2004,Athina,Hockey,Men's Hockey,No Medal,Ignacious Tirkey,Team Sports,200.4
+120485,"Ignacious ""Ignace"" Tirkey",M,31.0,172.0,62.0,2012,London,Hockey,Men's Hockey,No Medal,Ignacious Tirkey,Team Sports,201.2
+120871,Sandeep Tomar,M,25.0,168.0,61.0,2016,Rio de Janeiro,Wrestling,"Men's Featherweight, Freestyle",No Medal,Sandeep Tomar,Combat,201.6
+120929,Rajiv Tomer,M,27.0,175.0,120.0,2008,Beijing,Wrestling,"Men's Super-Heavyweight, Freestyle",No Medal,Rajiv Tomer,Combat,200.8
+121110,Manohar Topno,M,26.0,162.0,62.0,1984,Los Angeles,Hockey,Men's Hockey,No Medal,Manohar Topno,Team Sports,198.4
+121123,Namita Toppo,F,21.0,163.0,53.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Namita Toppo,Team Sports,201.6
+121950,Vinita Tripathi,F,19.0,165.0,61.0,2000,Sydney,Athletics,Women's 4 x 100 metres Relay,No Medal,Vinita Tripathi,Speed & Power,200.0
+122626,Kavita Maheshkumar Tungar (Raut-),F,31.0,157.0,45.0,2016,Rio de Janeiro,Athletics,Women's Marathon,No Medal,Kavita Maheshkumar Tungar,Endurance,201.6
+123551,"Pilavullakandi Thekeparampil ""P. T."" Usha",F,16.0,170.0,57.0,1980,Moskva,Athletics,Women's 100 metres,No Medal,Pilavullakandi Thekeparampil Usha,Speed & Power,198.0
+123551,"Pilavullakandi Thekeparampil ""P. T."" Usha",F,16.0,170.0,57.0,1980,Moskva,Athletics,Women's 200 metres,No Medal,Pilavullakandi Thekeparampil Usha,Speed & Power,198.0
+123551,"Pilavullakandi Thekeparampil ""P. T."" Usha",F,20.0,170.0,57.0,1984,Los Angeles,Athletics,Women's 400 metres Hurdles,No Medal,Pilavullakandi Thekeparampil Usha,Speed & Power,198.4
+123551,"Pilavullakandi Thekeparampil ""P. T."" Usha",F,20.0,170.0,57.0,1984,Los Angeles,Athletics,Women's 4 x 400 metres Relay,No Medal,Pilavullakandi Thekeparampil Usha,Speed & Power,198.4
+123551,"Pilavullakandi Thekeparampil ""P. T."" Usha",F,24.0,170.0,57.0,1988,Seoul,Athletics,Women's 400 metres Hurdles,No Medal,Pilavullakandi Thekeparampil Usha,Speed & Power,198.8
+123627,"Sannuvanda Kushalappa ""S. K."" Uthappa",M,18.0,183.0,84.0,2012,London,Hockey,Men's Hockey,No Medal,Sannuvanda Kushalappa Uthappa,Team Sports,201.2
+123627,"Sannuvanda Kushalappa ""S. K."" Uthappa",M,22.0,183.0,84.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Sannuvanda Kushalappa Uthappa,Team Sports,201.6
+123786,Nirupama Vaidyanathan (-Sanjeev),F,25.0,170.0,62.0,2000,Sydney,Tennis,Women's Doubles,No Medal,Nirupama Vaidyanathan,Racket Sports,200.0
+124107,"Manathoor Devasia ""M. D."" Valsamma",F,23.0,157.0,47.0,1984,Los Angeles,Athletics,Women's 400 metres Hurdles,No Medal,Manathoor Devasia Valsamma,Speed & Power,198.4
+124107,"Manathoor Devasia ""M. D."" Valsamma",F,23.0,157.0,47.0,1984,Los Angeles,Athletics,Women's 4 x 400 metres Relay,No Medal,Manathoor Devasia Valsamma,Speed & Power,198.4
+125220,Pranitha Vardhineni,F,17.0,155.0,67.0,2008,Beijing,Archery,Women's Individual,No Medal,Pranitha Vardhineni,Precision,200.8
+125220,Pranitha Vardhineni,F,17.0,155.0,67.0,2008,Beijing,Archery,Women's Team,No Medal,Pranitha Vardhineni,Precision,200.8
+125326,Sabu Varkey,M,25.0,156.0,65.0,1996,Atlanta,Hockey,Men's Hockey,No Medal,Sabu Varkey,Team Sports,199.6
+125624,Anjali Ramakanta Vedpathak-Bhagwat,F,30.0,165.0,53.0,2000,Sydney,Shooting,"Women's Air Rifle, 10 metres",No Medal,Anjali Ramakanta Vedpathak-Bhagwat,Precision,200.0
+125624,Anjali Ramakanta Vedpathak-Bhagwat,F,30.0,165.0,53.0,2000,Sydney,Shooting,"Women's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Anjali Ramakanta Vedpathak-Bhagwat,Precision,200.0
+125624,Anjali Ramakanta Vedpathak-Bhagwat,F,34.0,165.0,53.0,2004,Athina,Shooting,"Women's Air Rifle, 10 metres",No Medal,Anjali Ramakanta Vedpathak-Bhagwat,Precision,200.4
+125624,Anjali Ramakanta Vedpathak-Bhagwat,F,34.0,165.0,53.0,2004,Athina,Shooting,"Women's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Anjali Ramakanta Vedpathak-Bhagwat,Precision,200.4
+125624,Anjali Ramakanta Vedpathak-Bhagwat,F,38.0,165.0,53.0,2008,Beijing,Shooting,"Women's Air Rifle, 10 metres",No Medal,Anjali Ramakanta Vedpathak-Bhagwat,Precision,200.8
+125624,Anjali Ramakanta Vedpathak-Bhagwat,F,38.0,165.0,53.0,2008,Beijing,Shooting,"Women's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Anjali Ramakanta Vedpathak-Bhagwat,Precision,200.8
+125856,Devarajan Venkatesan,M,19.0,176.0,54.0,1992,Barcelona,Boxing,Men's Bantamweight,No Medal,Devarajan Venkatesan,Combat,199.2
+125892,Muniswamy Venu,M,26.0,173.0,60.0,1972,Munich,Boxing,Men's Lightweight,No Medal,Muniswamy Venu,Combat,197.2
+126059,Subhash Verma,M,20.0,180.0,90.0,1988,Seoul,Wrestling,"Men's Light-Heavyweight, Freestyle",No Medal,Subhash Verma,Combat,198.8
+126059,Subhash Verma,M,24.0,180.0,90.0,1992,Barcelona,Wrestling,"Men's Heavyweight, Freestyle",No Medal,Subhash Verma,Combat,199.2
+126823,Jagadeesan Vishnuvardhan,M,24.0,188.0,84.0,2012,London,Tennis,Men's Singles,No Medal,Jagadeesan Vishnuvardhan,Racket Sports,201.2
+126823,Jagadeesan Vishnuvardhan,M,24.0,188.0,84.0,2012,London,Tennis,Men's Doubles,No Medal,Jagadeesan Vishnuvardhan,Racket Sports,201.2
+126867,Sunil Sowmarpet Vitalacharya,M,23.0,176.0,68.0,2012,London,Hockey,Men's Hockey,No Medal,Sunil Sowmarpet Vitalacharya,Team Sports,201.2
+126867,Sunil Sowmarpet Vitalacharya,M,27.0,176.0,68.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Sunil Sowmarpet Vitalacharya,Team Sports,201.6
+128249,Devindar Sunil Walmiki,M,24.0,178.0,69.0,2016,Rio de Janeiro,Hockey,Men's Hockey,No Medal,Devindar Sunil Walmiki,Team Sports,201.6
+131974,William Xalco,M,20.0,167.0,60.0,2004,Athina,Hockey,Men's Hockey,No Medal,William Xalco,Team Sports,200.4
+132140,Dharmendra Yadav,M,19.0,162.0,51.0,1992,Barcelona,Boxing,Men's Flyweight,No Medal,Dharmendra Yadav,Combat,199.2
+132141,Narsingh Pancham Yadav,M,22.0,167.0,74.0,2012,London,Wrestling,"Men's Middleweight, Freestyle",No Medal,Narsingh Pancham Yadav,Combat,201.2
+132142,Renuka Yadav,F,22.0,159.0,53.0,2016,Rio de Janeiro,Hockey,Women's Hockey,No Medal,Renuka Yadav,Team Sports,201.6
+132143,Vikas Krishan Yadav,M,20.0,177.0,69.0,2012,London,Boxing,Men's Welterweight,No Medal,Vikas Krishan Yadav,Combat,201.2
+132143,Vikas Krishan Yadav,M,24.0,177.0,69.0,2016,Rio de Janeiro,Boxing,Men's Middleweight,No Medal,Vikas Krishan Yadav,Combat,201.6
+132177,Mohammad Anas Yahiya,M,21.0,177.0,69.0,2016,Rio de Janeiro,Athletics,Men's 400 metres,No Medal,Mohammad Anas Yahiya,Speed & Power,201.6
+132177,Mohammad Anas Yahiya,M,21.0,177.0,69.0,2016,Rio de Janeiro,Athletics,Men's 4 x 400 metres Relay,No Medal,Mohammad Anas Yahiya,Speed & Power,201.6
+133029,"Thyadathuvilla Chandrapillai ""T. C."" Yohannan",M,29.0,174.0,62.0,1976,Montreal,Athletics,Men's Long Jump,No Medal,Thyadathuvilla Chandrapillai Yohannan,Speed & Power,197.6
+135480,Geeta Zutshi,F,23.0,167.0,51.0,1980,Moskva,Athletics,Women's 800 metres,No Medal,Geeta Zutshi,Endurance,198.0
+135480,Geeta Zutshi,F,27.0,167.0,51.0,1984,Los Angeles,Athletics,"Women's 3,000 metres",No Medal,Geeta Zutshi,Endurance,198.4
